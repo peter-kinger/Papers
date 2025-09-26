@@ -1,0 +1,12 @@
+# only to ignore the files in the data document
+
+# 排除所有 Word 文件
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+*.zip
+
+# 排除对应文件夹
+0_Inbox/*
