@@ -11,8 +11,10 @@ this is a repository concludes the fresh and summaried papers
 
 - RL GeoScience: [Google doc](https://docs.google.com/document/d/1EFk2atzR8Vh70y30flyP9zE5hvbQVwPfW_lpYFZmFc8/edit?usp=sharing)  [Lastly updated: 2025/09/26]
 
+- 整理模板：[Google doc](https://docs.google.com/document/d/1SzfRsnD1d8jtz6HdwlDnwub-1zxTAUWC65fp_0dXie8/edit?usp=sharing)  [Lastly updated: 2025/09/26]
 
 # Fresh Papers（待读的文献）
+
 
 - STE 的文章
 
