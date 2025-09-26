@@ -1,8 +1,9 @@
 # only to ignore the files in the data document
 
-# 排除所有 Word 文件
-*.doc
-*.docx
+# 仅排除最外层的 Word 文件
+/*.doc
+/*.docx
+
 *.ppt
 *.pptx
 
