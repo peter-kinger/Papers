@@ -88,10 +88,12 @@ this is a repository concludes the fresh and summaried papers
   - [survey](#survey-1)
 - [IAM integrated assessment models](#iam-integrated-assessment-models)
   - [survey/perspective](#surveyperspective)
+- [AI scientists](#ai-scientists)
 - [Researchers](#researchers)
   - [fanjingfang](#fanjingfang)
 - [Projects 引用文献](#projects-引用文献)
   - [Project 1 ——Geosus](#project-1-geosus)
+  - [Project 2 ——Ste-madrl (看到 iseec v2 启发，构思的一些 social norm 文献)](#project-2-ste-madrl-看到-iseec-v2-启发构思的一些-social-norm-文献)
 
 
 # 学者追踪/机构/研究方向
@@ -305,6 +307,11 @@ this is a repository concludes the fresh and summaried papers
 
 - Low S, Brutschin E, Baum C M, et al. Expert perspectives on incorporating justice considerations into integrated assessment modelling[J]. npj Climate Action, 2025, 4(1): 10.【IAM中纳入正义】
 
+# AI scientists
+
+- [1] Y. Yamada et al., “The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search,” Apr. 10, 2025, arXiv: arXiv:2504.08066. doi: 10.48550/arXiv.2504.08066.【AI-scientist的尝试，实验往往是非线性的树节点进行改变】
+
+
 # Researchers
 
 ## fanjingfang
@@ -317,6 +324,13 @@ this is a repository concludes the fresh and summaried papers
 
 ## Project 1 ——Geosus
 
+
+## Project 2 ——Ste-madrl (看到 iseec v2 启发，构思的一些 social norm 文献)
+
+- D. I. Armstrong McKay et al., “Exceeding 1.5°C global warming could trigger multiple climate tipping points,” Science, vol. 377, no. 6611, p. eabn7950, Sept. 2022, doi: 10.1126/science.abn7950.【重新对于气候临界要素进行评估的文献，继承了 Lenton2008 的基础】
+
+- [1] R. R. Rodrigues and T. G. Shepherd, “Small is beautiful: climate-change science as if people mattered,” PNAS Nexus, vol. 1, no. 1, p. pgac009, Mar. 2022, doi: 10.1093/pnasnexus/pgac009.【呼吁气候变化研究过程中需要考虑人，区分了减排和适应的关系】
+- [1] W. Peng et al., “Climate policy models need to get real about people — here’s how,” Nature, vol. 594, no. 7862, pp. 174–176, June 2021, doi: 10.1038/d41586-021-01500-2.【气候政策需要考虑人，论述为什么会出现这种问题】
 
 ---
 

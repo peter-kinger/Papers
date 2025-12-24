@@ -1,0 +1,1630 @@
+TY  - JOUR
+TI  - From niches to norms: the promise of social tipping interventions to scale climate action
+AU  - Pizziol, Veronica
+AU  - Tavoni, Alessandro
+T2  - npj Climate Action
+AB  - Abstract
+            The net-zero transition poses unprecedented societal challenges that cannot be tackled with technology and markets alone. It requires complementary behavioral and social change on the demand side. Abandoning entrenched detrimental norms, including those that perpetuate the fossil-fueled lock-in, is notoriously difficult, preventing change and limiting policy efficacy. A nascent literature tackles social tipping interventions—STI, aiming at cost-effective disproportionate change by pushing behaviors past an adoption threshold beyond which further uptake is self-reinforcing. Intervening on target groups can greatly reduce the societal cost of a policy and thus holds promise for precipitating change. This article takes stock of the potential of STI to scale climate action by first reviewing the theoretical insights arising from behavioral public policy based on applications of threshold models from sociology and economics; then, it assesses the initial evidence on the effectiveness of STI, in light of the outcomes of laboratory and online experiments that were designed to study coordination on an emergent alternative to the initial status quo. Lastly, the article identifies potential conceptual limitations and proposes fruitful avenues for increasing the robustness of STI assessments beyond theory and small-scale experimentation.
+DA  - 2024/06/14/
+PY  - 2024
+DO  - 10.1038/s44168-024-00131-3
+DP  - DOI.org (Crossref)
+VL  - 3
+IS  - 1
+SP  - 46
+J2  - npj Clim. Action
+LA  - en
+SN  - 2731-9814
+ST  - From niches to norms
+UR  - https://www.nature.com/articles/s44168-024-00131-3
+Y2  - 2025/08/06/13:38:02
+ER  - 
+
+TY  - JOUR
+TI  - Climate policy models need to get real about people — here’s how
+AU  - Peng, Wei
+AU  - Iyer, Gokul
+AU  - Bosetti, Valentina
+AU  - Chaturvedi, Vaibhav
+AU  - Edmonds, James
+AU  - Fawcett, Allen A.
+AU  - Hallegatte, Stéphane
+AU  - Victor, David G.
+AU  - Van Vuuren, Detlef
+AU  - Weyant, John
+T2  - Nature
+DA  - 2021/06/10/
+PY  - 2021
+DO  - 10.1038/d41586-021-01500-2
+DP  - DOI.org (Crossref)
+VL  - 594
+IS  - 7862
+SP  - 174
+EP  - 176
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+UR  - https://www.nature.com/articles/d41586-021-01500-2
+Y2  - 2025/08/06/13:37:58
+ER  - 
+
+TY  - JOUR
+TI  - Stratospheric sink for chlorofluoromethanes: chlorine atom-catalysed destruction of ozone
+AU  - Molina, Mario J.
+AU  - Rowland, F. S.
+T2  - Nature
+DA  - 1974/06//
+PY  - 1974
+DO  - 10.1038/249810a0
+DP  - DOI.org (Crossref)
+VL  - 249
+IS  - 5460
+SP  - 810
+EP  - 812
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+ST  - Stratospheric sink for chlorofluoromethanes
+UR  - https://www.nature.com/articles/249810a0
+Y2  - 2025/08/06/13:37:53
+ER  - 
+
+TY  - JOUR
+TI  - Human-level control through deep reinforcement learning
+AU  - Mnih, Volodymyr
+AU  - Kavukcuoglu, Koray
+AU  - Silver, David
+AU  - Rusu, Andrei A.
+AU  - Veness, Joel
+AU  - Bellemare, Marc G.
+AU  - Graves, Alex
+AU  - Riedmiller, Martin
+AU  - Fidjeland, Andreas K.
+AU  - Ostrovski, Georg
+AU  - Petersen, Stig
+AU  - Beattie, Charles
+AU  - Sadik, Amir
+AU  - Antonoglou, Ioannis
+AU  - King, Helen
+AU  - Kumaran, Dharshan
+AU  - Wierstra, Daan
+AU  - Legg, Shane
+AU  - Hassabis, Demis
+T2  - Nature
+DA  - 2015/02/26/
+PY  - 2015
+DO  - 10.1038/nature14236
+DP  - DOI.org (Crossref)
+VL  - 518
+IS  - 7540
+SP  - 529
+EP  - 533
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+UR  - https://www.nature.com/articles/nature14236
+Y2  - 2025/08/06/13:37:49
+ER  - 
+
+TY  - JOUR
+TI  - Learning to predict by the methods of temporal differences
+AU  - Sutton, Richard S.
+T2  - Machine Learning
+AB  - This article introduces a class of incremental learning procedures specialized for prediction that is, for using past experience with an incompletely known system to predict its future behavior. Whereas conventional prediction-learning methods assign credit by means of the difference between predicted and actual outcomes, tile new methods assign credit by means of the difference between temporally successive predictions. Although such temporal-difference method~ have been used in Samuel's checker player, Holland's bucket brigade, and the author's Adaptive Heuristic Critic, they have remained poorly understood. Here we prove their convergence and optimality for special cases and relate them to supervised-learning methods. For most real-world prediction problems, telnporal-differenee methods require less memory and less peak computation than conventional methods and they produce more accurate predictions. We argue that most problems to which supervised learning is currently applied are really prediction problems of the sort to which temporaldifference methods can be applied to advantage.
+DA  - 1988/08//
+PY  - 1988
+DO  - 10.1007/BF00115009
+DP  - DOI.org (Crossref)
+VL  - 3
+IS  - 1
+SP  - 9
+EP  - 44
+J2  - Mach Learn
+LA  - en
+SN  - 0885-6125, 1573-0565
+UR  - http://link.springer.com/10.1007/BF00115009
+Y2  - 2025/08/06/13:37:45
+ER  - 
+
+TY  - JOUR
+TI  - Applications of artificial intelligence for disaster management
+AU  - Sun, Wenjuan
+AU  - Bocchini, Paolo
+AU  - Davison, Brian D.
+T2  - Natural Hazards
+AB  - Natural hazards have the potential to cause catastrophic damage and significant socioeconomic loss. The actual damage and loss observed in the recent decades has shown an increasing trend. As a result, disaster managers need to take a growing responsibility to proactively protect their communities by developing efficient management strategies. A number of research studies apply artificial intelligence (AI) techniques to process disasterrelated data for supporting informed disaster management. This study provides an overview of current applications of AI in disaster management during its four phases: mitigation, preparedness, response, and recovery. It presents example applications of different AI techniques and their benefits for supporting disaster management at different phases, as well as some practical AI-based decision support tools. We find that the majority of AI applications focus on the disaster response phase. This study also identifies challenges to inspire the professional community to advance AI techniques for addressing them in future research.
+DA  - 2020/09//
+PY  - 2020
+DO  - 10.1007/s11069-020-04124-3
+DP  - DOI.org (Crossref)
+VL  - 103
+IS  - 3
+SP  - 2631
+EP  - 2689
+J2  - Nat Hazards
+LA  - en
+SN  - 0921-030X, 1573-0840
+UR  - https://link.springer.com/10.1007/s11069-020-04124-3
+Y2  - 2025/08/06/13:37:42
+ER  - 
+
+TY  - ELEC
+TI  - Summary of the Clean Air Act
+AU  - US EPA, OP
+AB  - The Clean Air Act, or CAA, is the comprehensive federal law that regulates air emissions from stationary and mobile sources, using standards such as National Ambient Air Quality Standards (NAAQS) and maximum achievable control technology (MACT) standards.
+DA  - 2013/02/22/T13:28:50-05:00
+PY  - 2013
+LA  - en
+M3  - Overviews and Factsheets
+UR  - https://www.epa.gov/laws-regulations/summary-clean-air-act
+Y2  - 2025/08/06/13:37:36
+L2  - https://www.epa.gov/laws-regulations/summary-clean-air-act
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning in World-Earth system models to discover sustainable management strategies
+AU  - Strnad, Felix M.
+AU  - Barfuss, Wolfram
+AU  - Donges, Jonathan F.
+AU  - Heitzig, Jobst
+T2  - Chaos: An Interdisciplinary Journal of Nonlinear Science
+AB  - Increasingly complex nonlinear World-Earth system models are used for describing the dynamics of the biophysical Earth system and the socioeconomic and sociocultural World of human societies and their interactions. Identifying pathways toward a sustainable future in these models for informing policymakers and the wider public, e.g., pathways leading to robust mitigation of dangerous anthropogenic climate change, is a challenging and widely investigated task in the ﬁeld of climate research and broader Earth system science. This problem is particularly diﬃcult when constraints on avoiding transgressions of planetary boundaries and social foundations need to be taken into account. In this work, we propose to combine recently developed machine learning techniques, namely, deep reinforcement learning (DRL), with classical analysis of trajectories in the World-Earth system. Based on the concept of the agent-environment interface, we develop an agent that is generally able to act and learn in variable manageable environment models of the Earth system. We demonstrate the potential of our framework by applying DRL algorithms to two stylized World-Earth system models. Conceptually, we explore thereby the feasibility of ﬁnding novel global governance policies leading into a safe and just operating space constrained by certain planetary and socioeconomic boundaries. The artiﬁcially intelligent agent learns that the timing of a speciﬁc mix of taxing carbon emissions and subsidies on renewables is of crucial relevance for ﬁnding World-Earth system trajectories that are sustainable in the long term.
+DA  - 2019/12/01/
+PY  - 2019
+DO  - 10.1063/1.5124673
+DP  - DOI.org (Crossref)
+VL  - 29
+IS  - 12
+SP  - 123122
+LA  - en
+SN  - 1054-1500, 1089-7682
+UR  - https://pubs.aip.org/cha/article/29/12/123122/1028450/Deep-reinforcement-learning-in-World-Earth-system
+Y2  - 2025/08/06/13:37:36
+ER  - 
+
+TY  - JOUR
+TI  - Trajectories of the Earth System in the Anthropocene
+AU  - Steffen, Will
+AU  - Rockström, Johan
+AU  - Richardson, Katherine
+AU  - Lenton, Timothy M.
+AU  - Folke, Carl
+AU  - Liverman, Diana
+AU  - Summerhayes, Colin P.
+AU  - Barnosky, Anthony D.
+AU  - Cornell, Sarah E.
+AU  - Crucifix, Michel
+AU  - Donges, Jonathan F.
+AU  - Fetzer, Ingo
+AU  - Lade, Steven J.
+AU  - Scheffer, Marten
+AU  - Winkelmann, Ricarda
+AU  - Schellnhuber, Hans Joachim
+T2  - Proceedings of the National Academy of Sciences
+AB  - We explore the risk that self-reinforcing feedbacks could push the Earth System toward a planetary threshold that, if crossed, could prevent stabilization of the climate at intermediate temperature rises and cause continued warming on a “Hothouse Earth” pathway even as human emissions are reduced. Crossing the threshold would lead to a much higher global average temperature than any interglacial in the past 1.2 million years and to sea levels significantly higher than at any time in the Holocene. We examine the evidence that such a threshold might exist and where it might be. If the threshold is crossed, the resulting trajectory would likely cause serious disruptions to ecosystems, society, and economies. Collective human action is required to steer the Earth System away from a potential threshold and stabilize it in a habitable interglacial-like state. Such action entails stewardship of the entire Earth System—biosphere, climate, and societies—and could include decarbonization of the global economy, enhancement of biosphere carbon sinks, behavioral changes, technological innovations, new governance arrangements, and transformed social values.
+DA  - 2018/08/14/
+PY  - 2018
+DO  - 10.1073/pnas.1810141115
+DP  - DOI.org (Crossref)
+VL  - 115
+IS  - 33
+SP  - 8252
+EP  - 8259
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.1810141115
+Y2  - 2025/08/06/13:37:34
+ER  - 
+
+TY  - JOUR
+TI  - ‘Earth system’ analysis and the second Copernican revolution
+AU  - Schellnhuber, H. J.
+T2  - Nature
+DA  - 1999/12/02/
+PY  - 1999
+DO  - 10.1038/35011515
+DP  - DOI.org (Crossref)
+VL  - 402
+IS  - S6761
+SP  - C19
+EP  - C23
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+UR  - https://www.nature.com/articles/35011515
+Y2  - 2025/08/06/13:37:31
+ER  - 
+
+TY  - JOUR
+TI  - Modelling human–natural systems interactions with implications for twenty-first-century warming
+AU  - Ramanathan, Veerabhadran
+AU  - Xu, Yangyang
+AU  - Versaci, Anthony
+T2  - Nature Sustainability
+DA  - 2021/12/13/
+PY  - 2021
+DO  - 10.1038/s41893-021-00826-z
+DP  - DOI.org (Crossref)
+VL  - 5
+IS  - 3
+SP  - 263
+EP  - 271
+J2  - Nat Sustain
+LA  - en
+SN  - 2398-9629
+UR  - https://www.nature.com/articles/s41893-021-00826-z
+Y2  - 2025/08/06/13:37:25
+ER  - 
+
+TY  - JOUR
+TI  - Integrated human-earth system modeling—state of the science and future directions
+AU  - Calvin, Katherine
+AU  - Bond-Lamberty, Ben
+T2  - Environmental Research Letters
+AB  - Research on humans and the Earth system has historically occurred separately, with different teams and models devoted to each. Increasingly, however, these communities and models are becoming intricately linked. In this review, we survey the literature on integrated human-Earth system models, quantify the direction and strength of feedbacks in those models, and put them in context of other, more frequently considered, feedbacks in the Earth system. We ﬁnd that such feedbacks have the potential to alter both human and Earth systems; however, there is signiﬁcant uncertainty in these results, and the number of truly integrated studies remains small. More research, more models, and more studies are needed to robustly quantify the sign and magnitude of human-Earth system feedbacks. Integrating human and earth models entails signiﬁcant complexity and cost, and researchers should carefully assess the costs and beneﬁts of doing so with respect to the object of study.
+DA  - 2018/06/01/
+PY  - 2018
+DO  - 10.1088/1748-9326/aac642
+DP  - DOI.org (Crossref)
+VL  - 13
+IS  - 6
+SP  - 063006
+J2  - Environ. Res. Lett.
+LA  - en
+SN  - 1748-9326
+UR  - https://iopscience.iop.org/article/10.1088/1748-9326/aac642
+Y2  - 2025/08/06/13:36:35
+ER  - 
+
+TY  - BOOK
+TI  - Reinforcement learning: an introduction
+AU  - Sutton, Richard S.
+AU  - Barto, Andrew G.
+T2  - Adaptive computation and machine learning
+CN  - Q325.6 .S88 1998
+CY  - Cambridge, Mass
+DA  - 1998///
+PY  - 1998
+DP  - Library of Congress ISBN
+SP  - 322
+LA  - en
+PB  - MIT Press
+SN  - 978-0-262-19398-6
+ST  - Reinforcement learning
+KW  - Reinforcement learning
+ER  - 
+
+TY  - JOUR
+TI  - Irrigation optimization with a deep reinforcement learning model: Case study on a site in Portugal
+AU  - Alibabaei, Khadijeh
+AU  - Gaspar, Pedro D.
+AU  - Assunção, Eduardo
+AU  - Alirezazadeh, Saeid
+AU  - Lima, Tânia M.
+T2  - Agricultural Water Management
+AB  - In the field of agriculture, the water used for irrigation should be given special treatment, as it is responsible for a large proportion of total water consumption. Irrigation scheduling is critical to food production because it guarantees producers a consistent harvest and minimizes the risk of losses due to water shortages. Therefore, the creation of an automatic irrigation method using new technologies is essential. New methods such as deep learning algorithms have attracted a lot of attention in agriculture and are already being used successfully. In this work, a Deep Q-Network was trained for irrigation scheduling. The agent was trained to schedule irrigation for a tomato field in Portugal. Two Long Short Term Memory models were used as the agent environment. One predicts the total water in the soil profile on the next day. The other one was employed to estimate the yield based on the environmental condition during a season and then measure the net return. The agent uses this information to decide the following irrigation amount. An Artificial Neural Network, a Long Short Term Memory, and a Convolutional Neural Network were used to estimating the Q-table during training. Unlike the Long-Short Terms Memory model, the Artificial Neural Network and the Convolutional Neural Network could not estimate the Q-table, and the agent’s reward decreased during training. The comparison of the performance of the model was done with fixed base irrigation and threshold based irrigation. The trained model increased productivity by 11% and decreased water consumption by 20–30% compared to the fixed method.
+DA  - 2022/04//
+PY  - 2022
+DO  - 10.1016/j.agwat.2022.107480
+DP  - DOI.org (Crossref)
+VL  - 263
+SP  - 107480
+J2  - Agricultural Water Management
+LA  - en
+SN  - 03783774
+ST  - Irrigation optimization with a deep reinforcement learning model
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0378377422000270
+Y2  - 2025/08/06/13:36:27
+ER  - 
+
+TY  - CHAP
+TI  - Markov games as a framework for multi-agent reinforcement learning
+AU  - Littman, Michael L.
+T2  - Machine Learning Proceedings 1994
+AB  - In the Markov decision process (MDP) formalization of reinforcement learning, a single adaptive agent interacts with an environment defined by a probabilistic transition function. In this solipsistic view, secondary agents can only be part of the environment and are therefore fixed in their behavior. The framework of Markov games allows us to widen this view to include multiple adaptive agents with interacting or competing goals. This paper considers a step in this direction in which exactly two agents with diametrically opposed goals share an environment. It describes a Q-learning-like algorithm for finding optimal policies and demonstrates its application to a simple two-player game in which the optimal policy is probabilistic.
+DA  - 1994///
+PY  - 1994
+DP  - DOI.org (Crossref)
+SP  - 157
+EP  - 163
+LA  - en
+PB  - Elsevier
+SN  - 978-1-55860-335-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9781558603356500271
+Y2  - 2025/08/06/13:36:24
+ER  - 
+
+TY  - JOUR
+TI  - Watershed System Model: The Essentials to Model Complex Human‐Nature System at the River Basin Scale
+AU  - Li, Xin
+AU  - Cheng, Guodong
+AU  - Lin, Hui
+AU  - Cai, Ximing
+AU  - Fang, Miao
+AU  - Ge, Yingchun
+AU  - Hu, Xiaoli
+AU  - Chen, Min
+AU  - Li, Weiyue
+T2  - Journal of Geophysical Research: Atmospheres
+AB  - Watershed system models are urgently needed to understand complex watershed systems and to support integrated river basin management. Early watershed modeling efforts focused on the representation of hydrologic processes, while the next-generation watershed models should represent the coevolution of the water-land-air-plant-human nexus in a watershed and provide capability of decision-making support. We propose a new modeling framework and discuss the know-how approach to incorporate emerging knowledge into integrated models through data exchange interfaces. We argue that the modeling environment is a useful tool to enable effective model integration, as well as create domain-speciﬁc models of river basin systems. The grand challenges in developing next-generation watershed system models include but are not limited to providing an overarching framework for linking natural and social sciences, building a scientiﬁcally based decision support system, quantifying and controlling uncertainties, and taking advantage of new technologies and new ﬁndings in the various disciplines of watershed science. The eventual goal is to build transdisciplinary, scientiﬁcally sound, and scale-explicit watershed system models that are to be codesigned by multidisciplinary communities.
+DA  - 2018/03/27/
+PY  - 2018
+DO  - 10.1002/2017JD028154
+DP  - DOI.org (Crossref)
+VL  - 123
+IS  - 6
+SP  - 3019
+EP  - 3034
+J2  - JGR Atmospheres
+LA  - en
+SN  - 2169-897X, 2169-8996
+ST  - Watershed System Model
+UR  - https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JD028154
+Y2  - 2025/08/06/13:36:21
+ER  - 
+
+TY  - JOUR
+TI  - Hydrological Cycle in the Heihe River Basin and Its Implication for Water Resource Management in Endorheic Basins
+AU  - Li, Xin
+AU  - Cheng, Guodong
+AU  - Ge, Yingchun
+AU  - Li, Hongyi
+AU  - Han, Feng
+AU  - Hu, Xiaoli
+AU  - Tian, Wei
+AU  - Tian, Yong
+AU  - Pan, Xiaoduo
+AU  - Nian, Yanyun
+AU  - Zhang, Yanlin
+AU  - Ran, Youhua
+AU  - Zheng, Yi
+AU  - Gao, Bing
+AU  - Yang, Dawen
+AU  - Zheng, Chunmiao
+AU  - Wang, Xusheng
+AU  - Liu, Shaomin
+AU  - Cai, Ximing
+T2  - Journal of Geophysical Research: Atmospheres
+AB  - Endorheic basins around the world are suffering from water and ecosystem crisis. To pursue sustainable development, quantifying the hydrological cycle is fundamentally important. However, knowledge gaps exist in how climate change and human activities inﬂuence the hydrological cycle in endorheic basins. We used an integrated ecohydrological model, in combination with systematic observations, to analyze the hydrological cycle in the Heihe River Basin, a typical endorheic basin in arid region of China. The water budget was closed for different landscapes, river channel sections, and irrigation districts of the basin from 2001 to 2012. The results showed that climate warming, which has led to greater precipitation, snowmelt, glacier melt, and runoff, is a favorable factor in alleviating water scarcity. Human activities, including ecological water diversion, cropland expansion, and groundwater overexploitation, have both positive and negative effects. The natural oasis ecosystem has been restored considerably, but the overuse of water in midstream and the use of environmental ﬂow for agriculture in downstream have exacerbated the water stress, resulting in unfavorable changes in surface-ground water interactions and raising concerns regarding how to fairly allocate water resources. Our results suggest that the water resource management in the region should be adjusted to adapt to a changing hydrological cycle, cropland area must be reduced, and the abstraction of groundwater must be controlled. To foster long-term beneﬁts, water conﬂicts should be handled from a broad socioeconomic perspective. The ﬁndings can provide useful information on endorheic basins to policy makers and stakeholders around the world.
+DA  - 2018/01/27/
+PY  - 2018
+DO  - 10.1002/2017JD027889
+DP  - DOI.org (Crossref)
+VL  - 123
+IS  - 2
+SP  - 890
+EP  - 914
+J2  - JGR Atmospheres
+LA  - en
+SN  - 2169-897X, 2169-8996
+UR  - https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JD027889
+Y2  - 2025/08/06/13:36:19
+ER  - 
+
+TY  - JOUR
+TI  - Effects of fossil fuel and total anthropogenic emission removal on public health and climate
+AU  - Lelieveld, J.
+AU  - Klingmüller, K.
+AU  - Pozzer, A.
+AU  - Burnett, R. T.
+AU  - Haines, A.
+AU  - Ramanathan, V.
+T2  - Proceedings of the National Academy of Sciences
+AB  - Significance
+            We assessed the effects of air pollution and greenhouse gases on public health, climate, and the hydrologic cycle. We combined a global atmospheric chemistry–climate model with air pollution exposure functions, based on an unmatched large number of cohort studies in many countries. We find that fossil-fuel-related emissions account for about 65% of the excess mortality rate attributable to air pollution, and 70% of the climate cooling by anthropogenic aerosols. We conclude that to save millions of lives and restore aerosol-perturbed rainfall patterns, while limiting global warming to 2 °C, a rapid phaseout of fossil-fuel-related emissions and major reductions of other anthropogenic sources are needed.
+          , 
+            Anthropogenic greenhouse gases and aerosols are associated with climate change and human health risks. We used a global model to estimate the climate and public health outcomes attributable to fossil fuel use, indicating the potential benefits of a phaseout. We show that it can avoid an excess mortality rate of 3.61 (2.96–4.21) million per year from outdoor air pollution worldwide. This could be up to 5.55 (4.52–6.52) million per year by additionally controlling nonfossil anthropogenic sources. Globally, fossil-fuel-related emissions account for about 65% of the excess mortality, and 70% of the climate cooling by anthropogenic aerosols. The chemical influence of air pollution on aeolian dust contributes to the aerosol cooling. Because aerosols affect the hydrologic cycle, removing the anthropogenic emissions in the model increases rainfall by 10–70% over densely populated regions in India and 10–30% over northern China, and by 10–40% over Central America, West Africa, and the drought-prone Sahel, thus contributing to water and food security. Since aerosols mask the anthropogenic rise in global temperature, removing fossil-fuel-generated particles liberates 0.51(±0.03) °C and all pollution particles 0.73(±0.03) °C warming, reaching around 2 °C over North America and Northeast Asia. The steep temperature increase from removing aerosols can be moderated to about 0.36(±0.06) °C globally by the simultaneous reduction of tropospheric ozone and methane. We conclude that a rapid phaseout of fossil-fuel-related emissions and major reductions of other anthropogenic sources are needed to save millions of lives, restore aerosol-perturbed rainfall patterns, and limit global warming to 2 °C.
+DA  - 2019/04/09/
+PY  - 2019
+DO  - 10.1073/pnas.1819989116
+DP  - DOI.org (Crossref)
+VL  - 116
+IS  - 15
+SP  - 7192
+EP  - 7197
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.1819989116
+Y2  - 2025/08/06/13:36:16
+ER  - 
+
+TY  - JOUR
+TI  - Operationalization of Topology of Sustainable Management to Estimate Qualitatively Different Regions in State Space
+AU  - Kittel, Tim
+AU  - Müller-Hansen, Finn
+AU  - Koch, Rebekka
+AU  - Heitzig, Jobst
+AU  - Deffuant, Guillaume
+AU  - Mathias, Jean-Denis
+AU  - Kurths, Jürgen
+AB  - To apply the framework Topology of Sustainable Management (tsm) by Heitzig et al. (2016) to dynamical models, we connect it to viability theory via a variant deﬁnition of the former. This enables us to use the Saint-Pierre algorithm to estimate the main partition of tsm. Furthermore, we present an extension of the algorithm to compute implicitly deﬁned capture basins, regions of state space as deﬁned in viability theory. We use a low-complexity model coupling environmental and socio-economic dynamics to demonstrate the applicability of this approach. With this example, we highlight how common problems in estimations of these regions like (i) an unbounded state space and (ii) highly varying time scales can be circumvented by introducing appropriate coordinate transformations. The article thus shows how algorithmic approaches from viability theory can be used to get a better understanding of the state space of manageable dynamical systems.
+DA  - 2020///
+PY  - 2020
+DP  - Zotero
+LA  - en
+ER  - 
+
+TY  - JOUR
+TI  - A Chronology of Important Events in the History of Air Pollution Meteorology to 1970
+AU  - Heidorn, K. C.
+T2  - Bulletin of the American Meteorological Society
+DA  - 1978/12//
+PY  - 1978
+DO  - 10.1175/1520-0477(1978)059<1589:ACOIEI>2.0.CO;2
+DP  - DOI.org (Crossref)
+VL  - 59
+IS  - 12
+SP  - 1589
+EP  - 1597
+J2  - Bull. Amer. Meteor. Soc.
+LA  - en
+SN  - 0003-0007, 1520-0477
+UR  - http://journals.ametsoc.org/doi/10.1175/1520-0477(1978)059<1589:ACOIEI>2.0.CO;2
+Y2  - 2025/08/06/13:36:07
+ER  - 
+
+TY  - JOUR
+TI  - Long-term economic growth projections in the Shared Socioeconomic Pathways
+AU  - Dellink, Rob
+AU  - Chateau, Jean
+AU  - Lanzi, Elisa
+AU  - Magné, Bertrand
+T2  - Global Environmental Change
+AB  - Long-term economic scenarios (up to 2100) are needed as a basis to explore possible different futures for major environmental challenges, including climate change. Given the high level of uncertainty involved, such scenarios would need to span a wide range of possible growth trajectories. The recently developed storylines of the Shared Socioeconomic Pathways (SSPs) provide a basis for making such projections. This paper describes a consistent methodology to derive (per capita) GDP trend pathways on a country basis. The methodology is based on a convergence process and places emphasis on the key drivers of economic growth in the long run: population, total factor productivity, physical capital, employment and human capital, and energy and fossil fuel resources (speciﬁcally oil and gas). The paper uses this methodology to derive country-level economic growth projections for 184 countries. The paper also investigates the inﬂuence of short-term growth rate estimates on the long-term income levels in various countries. It does so by comparing long-term projections based on short-term forecasts from 2011 with the projections based on forecasts from 2013. This highlights the effects of the recent economic crisis and uncertainty in short term developments on longer term growth trends. The projections are subject to large uncertainties, particularly for the later decades, and disregard a wide range of country-speciﬁc drivers of economic growth that are outside the narrow economic framework, such as external shocks, governance barriers and feedbacks from environmental damage. Hence, they should be interpreted with sufﬁcient care and not be treated as predictions.
+DA  - 2017/01//
+PY  - 2017
+DO  - 10.1016/j.gloenvcha.2015.06.004
+DP  - DOI.org (Crossref)
+VL  - 42
+SP  - 200
+EP  - 214
+J2  - Global Environmental Change
+LA  - en
+SN  - 09593780
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0959378015000837
+Y2  - 2025/08/06/13:36:01
+ER  - 
+
+TY  - JOUR
+TI  - Comparative analysis of evolving artificial neural network and reinforcement learning in stochastic optimization of multireservoir systems
+AU  - Dariane, Alireza B.
+AU  - Moradi, Amir Mohammad
+T2  - Hydrological Sciences Journal
+AB  - Dynamic programming (DP) has been among the most popular techniques for solving multireservoir problems since the early 1960s. However, DP and DP-based methods suffer from two serious issues: namely, the curses of modelling and dimensionality. Later, reinforcement learning (RL) was introduced to overcome some deficiencies in the traditional DP mainly related to the curse of modelling, but it still encounters the curse of dimensionality in larger systems. Recently, the artificial neural network has emerged as an effective approach to solve stochastic optimization of reservoir systems with high flexibility. In this paper, we develop a single-step evolving artificial neural network (SENN) model that overcomes the curses of modelling and dimensionality in a multireservoir system. Furthermore, a novel efficient allocation technique is developed to ease the allocation of water among different users. A tworeservoir system in Karkheh Basin, Iran, is applied to derive and test the methods. Elitist-mutated particle swarm optimization is used to train the network. A comparison of the results with Q-learning shows the superiority of the SENN, especially during drought periods. Moreover, the SENN performs better in producing more hydropower energy in the system. Thus, the main contributions of this research are (1) development of SENN applications to multireservoir systems, (2) a comparative analysis between SENN and Q-learning especially in prolonged drought conditions and (3) a proposed efficient optimal allocation technique using the simulation method.
+DA  - 2016/04/25/
+PY  - 2016
+DO  - 10.1080/02626667.2014.986485
+DP  - DOI.org (Crossref)
+VL  - 61
+IS  - 6
+SP  - 1141
+EP  - 1156
+J2  - Hydrological Sciences Journal
+LA  - en
+SN  - 0262-6667, 2150-3435
+UR  - http://www.tandfonline.com/doi/full/10.1080/02626667.2014.986485
+Y2  - 2025/08/06/13:35:58
+ER  - 
+
+TY  - JOUR
+TI  - A reinforcement learning approach to irrigation decision-making for rice using weather forecasts
+AU  - Chen, Mengting
+AU  - Cui, Yuanlai
+AU  - Wang, Xiaonan
+AU  - Xie, Hengwang
+AU  - Liu, Fangping
+AU  - Luo, Tongyuan
+AU  - Zheng, Shizong
+AU  - Luo, Yufeng
+T2  - Agricultural Water Management
+AB  - Improving efficiency with the use of rainfall is one of the effective ways to conserve water in agriculture. At present, weather forecasting can be used to potentially conserve irrigation water, but the risks of unnecessary irrigation and the yield loss due to the uncertainty of weather forecasts should be avoided. Thus, a deep Qlearning (DQN) irrigation decision-making strategy based on short-term weather forecasts was proposed to determine the optimal irrigation decision. The utility of the method is demonstrated for paddy rice grown in Nanchang, China. The short-term weather forecasts and observed meteorological data of the paddy rice growth period from 2012 to 2019 were collected from stations near Nanchang. Irrigation was decided for two irrigation decision-making strategies, namely, conventional irrigation (i.e., flooded irrigation commonly used by local farmers) and DQN irrigation, and their performance in water conservation was evaluated. The results showed that the daily rainfall forecasting performance was acceptable, with potential space for learning and exploitation. The DQN irrigation strategy had strong generalization ability after training and can be used to make irrigation decisions using weather forecasts. In our case, simulation results indicated that compared with conventional irrigation decisions, DQN irrigation took advantage of water conservation from unnecessary irrigation, resulting in irrigation water savings of 23 mm and reducing drainage by 21 mm and irrigation timing by 1.0 times on average, without significant yield reduction. The DQN irrigation strategy of learning from past irrigation experiences and the uncertainties in weather forecasts avoided the risks of imperfect weather forecasting.
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1016/j.agwat.2021.106838
+DP  - DOI.org (Crossref)
+VL  - 250
+SP  - 106838
+J2  - Agricultural Water Management
+LA  - en
+SN  - 03783774
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0378377421001037
+Y2  - 2025/08/06/13:35:53
+ER  - 
+
+TY  - BOOK
+TI  - Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty
+AU  - Ipcc
+AB  - The Intergovernmental Panel on Climate Change (IPCC) is the leading international body for assessing the science related to climate change. It provides regular assessments of the scientific basis of climate change, its impacts and future risks, and options for adaptation and mitigation. This IPCC Special Report is a comprehensive assessment of our understanding of global warming of 1.5°C, future climate change, potential impacts and associated risks, emission pathways, and system transitions consistent with 1.5°C global warming, and strengthening the global response to climate change in the context of sustainable development and efforts to eradicate poverty. It serves policymakers, decision makers, stakeholders and all interested parties with unbiased, up-to-date, policy-relevant information. This title is also available as Open Access on Cambridge Core.
+DA  - 2022/06/09/
+PY  - 2022
+DP  - DOI.org (Crossref)
+ET  - 1
+LA  - en
+PB  - Cambridge University Press
+SN  - 978-1-009-15794-0 978-1-009-15795-7
+ST  - Global Warming of 1.5°C
+UR  - https://www.cambridge.org/core/product/identifier/9781009157940/type/book
+Y2  - 2025/08/06/13:35:50
+ER  - 
+
+TY  - JOUR
+TI  - Tree‐based reinforcement learning for optimal water reservoir operation
+AU  - Castelletti, A.
+AU  - Galelli, S.
+AU  - Restelli, M.
+AU  - Soncini‐Sessa, R.
+T2  - Water Resources Research
+AB  - Although being one of the most popular and extensively studied approaches to design water reservoir operations, Stochastic Dynamic Programming is plagued by a dual curse that makes it unsuitable to cope with large water systems: the computational requirement grows exponentially with the number of state variables considered (curse of dimensionality) and an explicit model must be available to describe every system transition and the associated rewards/costs (curse of modeling). A variety of simplifications and approximations have been devised in the past, which, in many cases, make the resulting operating policies inefficient and of scarce relevance in practical contexts. In this paper, a reinforcement‐learning approach, called fitted
+              Q
+              ‐iteration, is presented: it combines the principle of continuous approximation of the value functions with a process of learning off‐line from experience to design daily, cyclostationary operating policies. The continuous approximation, performed via tree‐based regression, makes it possible to mitigate the curse of dimensionality by adopting a very coarse discretization grid with respect to the dense grid required to design an equally performing policy via Stochastic Dynamic Programming. The learning experience, in the form of a data set generated combining historical observations and model simulations, allows us to overcome the curse of modeling. Lake Como water system (Italy) is used as study site to infer general guidelines on the appropriate setting for the algorithm parameters and to demonstrate the advantages of the approach in terms of accuracy and computational effectiveness compared to traditional Stochastic Dynamic Programming.
+DA  - 2010/09//
+PY  - 2010
+DO  - 10.1029/2009WR008898
+DP  - DOI.org (Crossref)
+VL  - 46
+IS  - 9
+SP  - 2009WR008898
+J2  - Water Resources Research
+LA  - en
+SN  - 0043-1397, 1944-7973
+UR  - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009WR008898
+Y2  - 2025/08/06/13:35:48
+ER  - 
+
+TY  - JOUR
+TI  - The fiscal implications of stringent climate policy
+AU  - Tol, Richard S.J.
+T2  - Economic Analysis and Policy
+AB  - Stringent climate policy compatible with the targets of the 2015 Paris Agreement would pose a substantial fiscal challenge. Reducing carbon dioxide emissions by 95% or more by 2050 would raise 7% (1%–17%) of GDP in carbon tax revenue, half of current, global tax revenue. Revenues are relatively larger in poorer regions. Subsidies for carbon dioxide sequestration would amount to 6.6% (0.3–7.1%) of GDP. These numbers are conservative as they were estimated using models that assume first-best climate policy implementation and ignore the costs of raising revenue. The fiscal challenge rapidly shrinks if emission targets are relaxed.
+DA  - 2023/12//
+PY  - 2023
+DO  - 10.1016/j.eap.2023.09.004
+DP  - DOI.org (Crossref)
+VL  - 80
+SP  - 495
+EP  - 504
+J2  - Economic Analysis and Policy
+LA  - en
+SN  - 03135926
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0313592623002114
+Y2  - 2025/08/07/02:38:33
+ER  - 
+
+TY  - JOUR
+TI  - Towards representing human behavior and decision making in Earth system models – an overview of techniques and approaches
+AU  - Müller-Hansen, Finn
+AU  - Schlüter, Maja
+AU  - Mäs, Michael
+AU  - Donges, Jonathan F.
+AU  - Kolb, Jakob J.
+AU  - Thonicke, Kirsten
+AU  - Heitzig, Jobst
+T2  - Earth System Dynamics
+AB  - Today, humans have a critical impact on the Earth system and vice versa, which can generate complex feedback processes between social and ecological dynamics. Integrating human behavior into formal Earth system models (ESMs), however, requires crucial modeling assumptions about actors and their goals, behavioral options, and decision rules, as well as modeling decisions regarding human social interactions and the aggregation of individuals’ behavior. Here, we review existing modeling approaches and techniques from various disciplines and schools of thought dealing with human behavior at different levels of decision making. We demonstrate modelers’ often vast degrees of freedom but also seek to make modelers aware of the often crucial consequences of seemingly innocent modeling assumptions.
+DA  - 2017/11/08/
+PY  - 2017
+DO  - 10.5194/esd-8-977-2017
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 4
+SP  - 977
+EP  - 1007
+J2  - Earth Syst. Dynam.
+LA  - en
+SN  - 2190-4987
+UR  - https://esd.copernicus.org/articles/8/977/2017/
+Y2  - 2025/08/06/13:37:56
+ER  - 
+
+TY  - JOUR
+TI  - Explainable reinforcement learning via reward decomposition
+AU  - Juozapaitis, Zoe
+AU  - Koul, Anurag
+AU  - Fern, Alan
+AU  - Erwig, Martin
+AU  - Doshi-Velez, Finale
+AB  - We study reward decomposition for explaining the decisions of reinforcement learning (RL) agents. The approach decomposes rewards into sums of semantically meaningful reward types, so that actions can be compared in terms of trade-oﬀs among the types. In particular, we introduce the concept of minimum suﬃcient explanations for compactly explaining why one action is preferred over another in terms of the types. Many prior RL algorithms for decomposed rewards produced inconsistent decomposed values, which can be ill-suited to explanation. We exploit an oﬀ-policy variant of Qlearning that provably converges to an optimal policy and the correct decomposed action values. We illustrate the approach in a number of domains, showing its utility for explanations.
+DA  - 2019///
+PY  - 2019
+DP  - Zotero
+LA  - en
+ER  - 
+
+TY  - JOUR
+TI  - Emergency deployment of direct air capture as a response to the climate crisis
+AU  - Hanna, Ryan
+AU  - Abdulla, Ahmed
+AU  - Xu, Yangyang
+AU  - Victor, David G.
+T2  - Nature Communications
+AB  - Abstract
+            
+              Though highly motivated to slow the climate crisis, governments may struggle to impose costly polices on entrenched interest groups, resulting in a greater need for negative emissions. Here, we model wartime-like crash deployment of direct air capture (DAC) as a policy response to the climate crisis, calculating funding, net CO
+              2
+              removal, and climate impacts. An emergency DAC program, with investment of 1.2–1.9% of global GDP annually, removes 2.2–2.3 GtCO
+              2
+              yr
+              –1
+              in 2050, 13–20 GtCO
+              2
+              yr
+              –1
+              in 2075, and 570–840 GtCO
+              2
+              cumulatively over 2025–2100. Compared to a future in which policy efforts to control emissions follow current trends (SSP2-4.5), DAC substantially hastens the onset of net-zero CO
+              2
+              emissions (to 2085–2095) and peak warming (to 2090–2095); yet warming still reaches 2.4–2.5 °C in 2100. Such massive CO
+              2
+              removals hinge on near-term investment to boost the future capacity for upscaling. DAC is most cost-effective when using electricity sources already available today: hydropower and natural gas with renewables; fully renewable systems are more expensive because their low load factors do not allow efficient amortization of capital-intensive DAC plants.
+DA  - 2021/01/14/
+PY  - 2021
+DO  - 10.1038/s41467-020-20437-0
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 1
+SP  - 368
+J2  - Nat Commun
+LA  - en
+SN  - 2041-1723
+UR  - https://www.nature.com/articles/s41467-020-20437-0
+Y2  - 2025/08/06/13:45:57
+ER  - 
+
+TY  - JOUR
+TI  - Optimal carbon storage reservoir management through deep reinforcement learning
+AU  - Sun, Alexander Y.
+T2  - Applied Energy
+AB  - Model-based optimization plays a central role in energy system design and management. The complexity and high-dimensionality of many process-level models, especially those used for geosystem energy exploration and utilization, often lead to formidable computational costs when the dimension of decision space is also large. This work adopts elements of recently advanced deep learning techniques to solve a sequential decisionmaking problem in applied geosystem management. Specifically, a deep reinforcement learning framework was formed for optimal multiperiod planning, in which a deep Q-learning network (DQN) agent was trained to maximize rewards by learning from high-dimensional inputs and from exploitation of its past experiences. To expedite computation, deep multitask learning was used to approximate high-dimensional, multistate transition functions. Both DQN and deep multitask learning are pattern based. As a demonstration, the framework was applied to optimal carbon sequestration reservoir planning using two different types of management strategies: monitoring only and brine extraction. Both strategies are designed to mitigate potential risks due to pressure buildup. Results show that the DQN agent can identify the optimal policies to maximize the reward for given risk and cost constraints. Experiments also show that knowledge the agent gained from interacting with one environment is largely preserved when deploying the same agent in other similar environments.
+DA  - 2020/11//
+PY  - 2020
+DO  - 10.1016/j.apenergy.2020.115660
+DP  - DOI.org (Crossref)
+VL  - 278
+SP  - 115660
+J2  - Applied Energy
+LA  - en
+SN  - 03062619
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0306261920311569
+Y2  - 2025/08/06/13:37:39
+ER  - 
+
+TY  - JOUR
+TI  - Social tipping dynamics for stabilizing earth’s climate by 2050
+AU  - Otto, Ilona M.
+AU  - Donges, Jonathan F.
+AU  - Cremades, Roger
+AU  - Bhowmik, Avit
+AU  - Hewitt, Richard J.
+AU  - Lucht, Wolfgang
+AU  - Rockström, Johan
+AU  - Allerberger, Franziska
+AU  - McCaffrey, Mark
+AU  - Doe, Sylvanus S. P.
+AU  - Lenferna, Alex
+AU  - Morán, Nerea
+AU  - Van Vuuren, Detlef P.
+AU  - Schellnhuber, Hans Joachim
+T2  - Proceedings of the National Academy of Sciences
+AB  - Significance
+            Achieving a rapid global decarbonization to stabilize the climate critically depends on activating contagious and fast-spreading processes of social and technological change within the next few years. Drawing on expert elicitation, an expert workshop, and a review of literature, which provides a comprehensive analysis on this topic, we propose concrete interventions to induce positive social tipping dynamics and a rapid global transformation to carbon-neutral societies. These social tipping interventions comprise removing fossil-fuel subsidies and incentivizing decentralized energy generation, building carbon-neutral cities, divesting from assets linked to fossil fuels, revealing the moral implications of fossil fuels, strengthening climate education and engagement, and disclosing greenhouse gas emissions information.
+          , 
+            Safely achieving the goals of the Paris Climate Agreement requires a worldwide transformation to carbon-neutral societies within the next 30 y. Accelerated technological progress and policy implementations are required to deliver emissions reductions at rates sufficiently fast to avoid crossing dangerous tipping points in the Earth’s climate system. Here, we discuss and evaluate the potential of social tipping interventions (STIs) that can activate contagious processes of rapidly spreading technologies, behaviors, social norms, and structural reorganization within their functional domains that we refer to as social tipping elements (STEs). STEs are subdomains of the planetary socioeconomic system where the required disruptive change may take place and lead to a sufficiently fast reduction in anthropogenic greenhouse gas emissions. The results are based on online expert elicitation, a subsequent expert workshop, and a literature review. The STIs that could trigger the tipping of STE subsystems include 1) removing fossil-fuel subsidies and incentivizing decentralized energy generation (STE1, energy production and storage systems), 2) building carbon-neutral cities (STE2, human settlements), 3) divesting from assets linked to fossil fuels (STE3, financial markets), 4) revealing the moral implications of fossil fuels (STE4, norms and value systems), 5) strengthening climate education and engagement (STE5, education system), and 6) disclosing information on greenhouse gas emissions (STE6, information feedbacks). Our research reveals important areas of focus for larger-scale empirical and modeling efforts to better understand the potentials of harnessing social tipping dynamics for climate change mitigation.
+DA  - 2020/02/04/
+PY  - 2020
+DO  - 10.1073/pnas.1900577117
+DP  - DOI.org (Crossref)
+VL  - 117
+IS  - 5
+SP  - 2354
+EP  - 2365
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.1900577117
+Y2  - 2025/08/06/13:45:40
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement learning–based adaptive strategies for climate change adaptation: An application for coastal flood risk management
+AU  - Feng, Kairui
+AU  - Lin, Ning
+AU  - Kopp, Robert E.
+AU  - Xian, Siyuan
+AU  - Oppenheimer, Michael
+T2  - Proceedings of the National Academy of Sciences
+AB  - Conventional computational models of climate adaptation frameworks inadequately consider decision-makers’ capacity to learn, update, and improve decisions. Here, we investigate the potential of reinforcement learning (RL), a machine learning technique that efficaciously acquires knowledge from the environment and systematically optimizes dynamic decisions, in modeling and informing adaptive climate decision-making. We consider coastal flood risk mitigations for Manhattan, New York City, USA (NYC), illustrating the benefit of continuously incorporating observations of sea-level rise into systematic designs of adaptive strategies. We find that when designing adaptive seawalls to protect NYC, the RL-derived strategy significantly reduces the expected net cost by 6 to 36% under the moderate emissions scenario SSP2-4.5 (9 to 77% under the high emissions scenario SSP5-8.5), compared to conventional methods. When considering multiple adaptive policies, including accomodation and retreat as well as protection, the RL approach leads to a further 5% (15%) cost reduction, showing RL’s flexibility in coordinatively addressing complex policy design problems. RL also outperforms conventional methods in controlling tail risk (i.e., low probability, high impact outcomes) and in avoiding losses induced by misinformation about the climate state (e.g., deep uncertainty), demonstrating the importance of systematic learning and updating in addressing extremes and uncertainties related to climate adaptation.
+DA  - 2025/03/25/
+PY  - 2025
+DO  - 10.1073/pnas.2402826122
+DP  - DOI.org (Crossref)
+VL  - 122
+IS  - 12
+SP  - e2402826122
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+ST  - Reinforcement learning–based adaptive strategies for climate change adaptation
+UR  - https://pnas.org/doi/10.1073/pnas.2402826122
+Y2  - 2025/08/06/14:32:12
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem
+AU  - Koster, Raphael
+AU  - Pîslar, Miruna
+AU  - Tacchetti, Andrea
+AU  - Balaguer, Jan
+AU  - Liu, Leqi
+AU  - Elie, Romuald
+AU  - Hauser, Oliver P.
+AU  - Tuyls, Karl
+AU  - Botvinick, Matt
+AU  - Summerfield, Christopher
+T2  - Nature Communications
+AB  - Abstract
+            A canonical social dilemma arises when resources are allocated to people, who can either reciprocate with interest or keep the proceeds. The right resource allocation mechanisms can encourage levels of reciprocation that sustain the commons. Here, in an iterated multiplayer trust game, we use deep reinforcement learning (RL) to design a social planner that promotes sustainable contributions from human participants. We first trained neural networks to behave like human players, creating a stimulated economy that allows us to study the dynamics of receipt and reciprocation. We use RL to train a mechanism to maximise aggregate return to players. The RL mechanism discovers a redistributive policy that leads to a large but also more equal surplus. The mechanism outperforms baseline mechanisms by conditioning its generosity on available resources and temporarily sanctioning defectors. Examining the RL policy allows us to develop a similar but explainable mechanism that is more popular among players.
+DA  - 2025/03/22/
+PY  - 2025
+DO  - 10.1038/s41467-025-58043-7
+DP  - DOI.org (Crossref)
+VL  - 16
+IS  - 1
+SP  - 2824
+J2  - Nat Commun
+LA  - en
+SN  - 2041-1723
+UR  - https://www.nature.com/articles/s41467-025-58043-7
+Y2  - 2025/08/06/14:36:18
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning for the real time control of stormwater systems
+AU  - Mullapudi, Abhiram
+AU  - Lewis, Matthew J.
+AU  - Gruden, Cyndee L.
+AU  - Kerkez, Branko
+T2  - Advances in Water Resources
+AB  - A new generation of smart stormwater systems promises to reduce the need for new construction by enhancing the performance of the existing infrastructure through real-time control. Smart stormwater systems dynamically adapt their response to individual storms by controlling distributed assets, such as valves, gates, and pumps. This paper introduces a real-time control approach based on Reinforcement Learning (RL), which has emerged as a state-of-the-art methodology for autonomous control in the artiﬁcial intelligence community. Using a Deep Neural Network, a RL-based controller learns a control strategy by interacting with the system it controls - eﬀectively trying various control strategies until converging on those that achieve a desired objective. This paper formulates and implements a RL algorithm for the real-time control of urban stormwater systems. This algorithm trains a RL agent to control valves in a distributed stormwater system across thousands of simulated storm scenarios, seeking to achieve water level and ﬂow set-points in the system. The algorithm is ﬁrst evaluated for the control of an individual stormwater basin, after which it is adapted to the control of multiple basins in a larger watershed (4 km2). The results indicate that RL can very eﬀectively control individual sites. Performance is highly sensitive to the reward formulation of the RL agent. Generally, more explicit guidance led to better control performance, and more rapid and stable convergence of the learning process. While the control of multiple distributed sites also shows promise in reducing ﬂooding and peak ﬂows, the complexity of controlling larger systems comes with a number of caveats. The RL controller’s performance is very sensitive to the formulation of the Deep Neural Network and requires a signiﬁcant amount of computational resource to achieve a reasonable performance enhancement. Overall, the controlled system signiﬁcantly outperforms the uncontrolled system, especially across storms of high intensity and duration. A frank discussion is provided, which should allow the beneﬁts and drawbacks of RL to be considered when implementing it for the real-time control of stormwater systems. An open source implementation of the full simulation environment and control algorithms is also provided.
+DA  - 2020/06//
+PY  - 2020
+DO  - 10.1016/j.advwatres.2020.103600
+DP  - DOI.org (Crossref)
+VL  - 140
+SP  - 103600
+J2  - Advances in Water Resources
+LA  - en
+SN  - 03091708
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0309170820302499
+Y2  - 2025/08/06/14:32:05
+ER  - 
+
+TY  - JOUR
+TI  - Multi-agent deep reinforcement learning: a survey
+AU  - Gronauer, Sven
+AU  - Diepold, Klaus
+T2  - Artificial Intelligence Review
+AB  - The advances in reinforcement learning have recorded sublime success in various domains. Although the multi-agent domain has been overshadowed by its single-agent counterpart during this progress, multi-agent reinforcement learning gains rapid traction, and the latest accomplishments address problems with real-world complexity. This article provides an overview of the current developments in the field of multi-agent deep reinforcement learning. We focus primarily on literature from recent years that combines deep reinforcement learning methods with a multi-agent scenario. To survey the works that constitute the contemporary landscape, the main contents are divided into three parts. First, we analyze the structure of training schemes that are applied to train multiple agents. Second, we consider the emergent patterns of agent behavior in cooperative, competitive and mixed scenarios. Third, we systematically enumerate challenges that exclusively arise in the multi-agent domain and review methods that are leveraged to cope with these challenges. To conclude this survey, we discuss advances, identify trends, and outline possible directions for future work in this research area.
+DA  - 2022/02//
+PY  - 2022
+DO  - 10.1007/s10462-021-09996-w
+DP  - DOI.org (Crossref)
+VL  - 55
+IS  - 2
+SP  - 895
+EP  - 943
+J2  - Artif Intell Rev
+LA  - en
+SN  - 0269-2821, 1573-7462
+ST  - Multi-agent deep reinforcement learning
+UR  - https://link.springer.com/10.1007/s10462-021-09996-w
+Y2  - 2025/08/06/13:36:04
+ER  - 
+
+TY  - JOUR
+TI  - Modeling and simulating adaptation strategies against sea-level rise using multiagent deep reinforcement learning
+AU  - Shuvo, Salman Sadiq
+AU  - Yilmaz, Yasin
+AU  - Bush, Alan
+AU  - Hafen, Mark
+T2  - IEEE Transactions on Computational Social Systems
+AB  - Sea-level rise (SLR) problem, which is a major outcome of climate change, has been well documented and studied. Although it is globally observed due to climate change, local projections are needed to plan SLR adaptation strategies accurately. Since SLR is a community-wide multistakeholder problem at the local level, adaptation strategies can be more successful if the main stakeholders, e.g., government, residents, and businesses, collaborate in shaping them. Simulating the local socioeconomic system around SLR, including the interactions between essential stakeholders and nature, can be an effective way of evaluating different adaptation strategies and planning the best strategy for the local community. This work presents how such an SLR socioeconomic system can be modeled as a Markov decision process (MDP) and simulated using multiagent reinforcement learning (RL). The proposed multiagent RL framework serves two purposes. It provides a general scenario planning tool to investigate the cost–beneﬁt analysis of natural events (e.g., ﬂooding and hurricane) and agents’ investments (e.g., infrastructure improvement). It also shows how much the total cost due to SLR can be reduced over time by optimizing the adaptation strategies. We demonstrate the proposed scenario planning tool using available economic data and sea-level projections for Pinellas County, Florida, in a case study.
+DA  - 2022/08//
+PY  - 2022
+DO  - 10.1109/TCSS.2021.3122282
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 4
+SP  - 1185
+EP  - 1196
+J2  - IEEE Trans. Comput. Soc. Syst.
+LA  - en
+SN  - 2329-924X, 2373-7476
+UR  - https://ieeexplore.ieee.org/document/9597483/
+Y2  - 2025/08/06/14:32:09
+ER  - 
+
+TY  - JOUR
+TI  - Integrated research methods in watershed science
+AU  - Cheng, GuoDong
+AU  - Li, Xin
+T2  - Science China Earth Sciences
+DA  - 2015/07//
+PY  - 2015
+DO  - 10.1007/s11430-015-5074-x
+DP  - DOI.org (Crossref)
+VL  - 58
+IS  - 7
+SP  - 1159
+EP  - 1168
+J2  - Sci. China Earth Sci.
+LA  - en
+SN  - 1674-7313, 1869-1897
+UR  - http://link.springer.com/10.1007/s11430-015-5074-x
+Y2  - 2025/08/06/13:35:56
+ER  - 
+
+TY  - JOUR
+TI  - Assessing Adaptive Irrigation Impacts on Water Scarcity in Nonstationary Environments—A Multi‐Agent Reinforcement Learning Approach
+AU  - Hung, Fengwei
+AU  - Yang, Y. C. Ethan
+T2  - Water Resources Research
+AB  - One major challenge in water resource management is to balance the uncertain and nonstationary water demands and supplies caused by the changing anthropogenic and hydroclimate conditions. To address this issue, we developed a reinforcement learning agent-based modeling (RL-ABM) framework where agents (agriculture water users) are able to learn and adjust water demands based on their interactions with the water systems. The intelligent agents are created by a reinforcement learning algorithm adapted from the Q-learning algorithm. We illustrated this framework in a case study where the RL-ABM is two-way coupled with the Colorado River Simulation System (CRSS), a long-term planning model used for the administration of the Colorado River Basin, for assessing agriculture water uses impacts on water scarcity. Seventy-eight intelligent agents are simulated, which can be grouped into three categories based on their parameter values: the “aggressive” (swift actions; low regrets), the “forwardlooking conservative” (mild actions; high regrets; fast learning), and the “myopic conservative” (mild actions; median regrets; slow learning). The ABM-CRSS results showed that the major reservoirs in the Upper Colorado Basin might experience more frequent water shortages due to the increasing water uses compared to the original CRSS results. If the drought continues, the case study also demonstrates that agents can learn and adjust their demands.
+DA  - 2021/09//
+PY  - 2021
+DO  - 10.1029/2020WR029262
+DP  - DOI.org (Crossref)
+VL  - 57
+IS  - 9
+SP  - e2020WR029262
+J2  - Water Resources Research
+LA  - en
+SN  - 0043-1397, 1944-7973
+UR  - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR029262
+Y2  - 2025/08/06/13:36:10
+ER  - 
+
+TY  - ELEC
+TI  - World energy transitions outlook 2023: 1.5°C pathway
+AB  - IRENA’s 1.5°C Scenario, set out in the World Energy Transitions Outlook, presents a pathway to achieve the 1.5°C target by 2050, positioning electrification and efficiency as key transition drivers, enabled by renewable energy, clean hydrogen and sustainable biomass.
+DA  - 2023/06/22/
+PY  - 2023
+LA  - en
+ST  - World Energy Transitions Outlook 2023
+UR  - https://www.irena.org/publications/2023/Jun/World-Energy-Transitions-Outlook-2023
+Y2  - 2025/08/06/14:22:00
+L2  - https://www.irena.org/publications/2023/Jun/World-Energy-Transitions-Outlook-2023
+ER  - 
+
+TY  - JOUR
+TI  - World energy transitions outlook 2023: 1.5°C pathway
+DP  - Zotero
+LA  - en
+ER  - 
+
+TY  - JOUR
+TI  - Pathways to achieve a set of ambitious global sustainability objectives by 2050: Explorations using the IMAGE integrated assessment model
+AU  - Van Vuuren, Detlef P.
+AU  - Kok, Marcel
+AU  - Lucas, Paul L.
+AU  - Prins, Anne Gerdien
+AU  - Alkemade, Rob
+AU  - Van Den Berg, Maurits
+AU  - Bouwman, Lex
+AU  - Van Der Esch, Stefan
+AU  - Jeuken, Michel
+AU  - Kram, Tom
+AU  - Stehfest, Elke
+T2  - Technological Forecasting and Social Change
+DA  - 2015/09//
+PY  - 2015
+DO  - 10.1016/j.techfore.2015.03.005
+DP  - DOI.org (Crossref)
+VL  - 98
+SP  - 303
+EP  - 323
+J2  - Technological Forecasting and Social Change
+LA  - en
+SN  - 00401625
+ST  - Pathways to achieve a set of ambitious global sustainability objectives by 2050
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0040162515000645
+Y2  - 2025/08/06/14:18:09
+ER  - 
+
+TY  - CHAP
+TI  - Reinforcement learning and strategic reasoning during social decision-making
+AU  - Seo, H.
+AU  - Lee, D.
+T2  - Decision Neuroscience
+AB  - Finding an efﬁcient learning algorithm in a complex social environment is challenging. When there is a sufﬁcient amount of information about the intentions of other decision-makers and decision-makers are cognitively capable of predicting the outcomes of their actions more accurately using that information, a complex learning algorithm might be advantageous. However, a simpler heuristic learning algorithm might work better with limited information. Previous studies have found that humans and other primates apply a mixture of multiple learning algorithms during various social decision-making tasks. In addition, neural activity related to multiple learning algorithms has been identiﬁed in different cortical areas and basal ganglia, suggesting that various learning algorithms for social decision-making might be implemented throughout the brain. By contrast, the processes for evaluating the performance of various learning algorithms and switching between them might be more closely tied to speciﬁc regions in the prefrontal cortex.
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+SP  - 225
+EP  - 231
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-805308-9
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B978012805308900018X
+Y2  - 2025/08/06/14:03:14
+ER  - 
+
+TY  - JOUR
+TI  - Book Reviews
+AU  - Schulz, Volker H.
+T2  - https://doi.org/10.1137/21N975254
+AB  - The April issue of SIAM News sadly reported on the death of Bob O'Malley (https://sinews.siam.org/Details-Page/obituary-robert-e-omalley-jr). He led the Book Reviews section actively and dynamically for many years. This section and its editors together with the SIAM community owe him a great debt of gratitude. This time, our section has 3 books on timely topics and 3 further books on fundamental dynamical system aspects. It opens with a featured review of the book Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control, by Steven L. Brunton and J. Nathan Kutz. This review, which is very diligently written by Jeff Moehlis, praises this book as an “engaging and highly informative introduction.” We continue with a trendy topic, the review by Krešimir Josić on the book Reinforcement Learning: An Introduction, written by Richard S. Sutton and Andrew G. Barto. Krešimir recommends the book as “a good starting point for anyone who wants to learn more about” reinforcement learning. This is followed by Alfio Borzì's review of the book Climate Change and Terrestrial Ecosystem Modeling, by Gordon Bonan. Alfio emphasizes the relevance of the book and praises it as an ideal textbook. After that, three books in the large field of dynamical systems are discussed. First, Rachel Dauncey and Anne Skeldon have a look into the book Chaos: An Introduction for Applied Mathematicians, by Andrew Fowler and Mark McGuinness. Rachel and Anne comment on aspects of diversity in formulations in this book and offer mixed and nuanced assessments. Then Georg Stadler presents his views on the book Modelling with Ordinary Differential Equations, by Alfio Borzì, emphasizing its value for teaching. Finally, we review the book Practical Methods for Optimal Control Using Nonlinear Programming, by John T. Betts, which discusses numerical solution methods for optimal control problems in ODEs that “actually work.”
+DA  - 2021/05/06/
+PY  - 2021
+DO  - 10.1137/21N975254
+DP  - epubs.siam.org
+LA  - en
+UR  - https://epubs.siam.org/doi/10.1137/21N975254
+AN  - world
+Y2  - 2025/08/06/13:38:33
+L2  - https://epubs.siam.org/doi/10.1137/21N975254
+ER  - 
+
+TY  - GEN
+TI  - Can reinforcement learning support policy makers? A preliminary study with integrated assessment models
+AU  - Wolf, Theodore
+AU  - Nardelli, Nantas
+AU  - Shawe-Taylor, John
+AU  - Perez-Ortiz, Maria
+AB  - Governments around the world aspire to ground decision-making on evidence. Many of the foundations of policy making - e.g. sensing patterns that relate to societal needs, developing evidence-based programs, forecasting potential outcomes of policy changes, and monitoring effectiveness of policy programs - have the potential to benefit from the use of large-scale datasets or simulations together with intelligent algorithms. These could, if designed and deployed in a way that is well grounded on scientific evidence, enable a more comprehensive, faster, and rigorous approach to policy making. Integrated Assessment Models (IAM) is a broad umbrella covering scientific models that attempt to link main features of society and economy with the biosphere into one modelling framework. At present, these systems are probed by policy makers and advisory groups in a hypothesis-driven manner. In this paper, we empirically demonstrate that modern Reinforcement Learning can be used to probe IAMs and explore the space of solutions in a more principled manner. While the implication of our results are modest since the environment is simplistic, we believe that this is a stepping stone towards more ambitious use cases, which could allow for effective exploration of policies and understanding of their consequences and limitations.
+DA  - 2023/12/11/
+PY  - 2023
+DO  - 10.48550/arXiv.2312.06527
+DP  - arXiv.org
+PB  - arXiv
+ST  - Can Reinforcement Learning support policy makers?
+UR  - http://arxiv.org/abs/2312.06527
+Y2  - 2025/08/06/13:46:12
+N1  - Comment: Published at NeurIPS'23 Workshop on Tackling Climate Change with Machine Learning
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Computational Engineering, Finance, and Science
+ER  - 
+
+TY  - JOUR
+TI  - Some contributions of integrated assessment models of global climate change
+AU  - Weyant, John
+T2  - Review of Environmental Economics and Policy
+DA  - 2017/01/01/
+PY  - 2017
+DO  - 10.1093/reep/rew018
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 1
+SP  - 115
+EP  - 137
+J2  - Review of Environmental Economics and Policy
+LA  - en
+SN  - 1750-6816, 1750-6824
+UR  - https://www.journals.uchicago.edu/doi/10.1093/reep/rew018
+Y2  - 2025/08/06/13:46:09
+ER  - 
+
+TY  - JOUR
+TI  - Global energy outlook 2022: Turning points and tension in the energy transition
+AU  - Raimi, Daniel
+AU  - Campbell, Erin
+AU  - Newell, Richard
+AU  - Prest, Brian
+AU  - Villanueva, Seth
+AU  - Wingenroth, Jordan
+DP  - Zotero
+LA  - en
+ER  - 
+
+TY  - JOUR
+TI  - Evolution of modeling of the economics of global warming: Changes in the DICE model, 1992–2017
+AU  - Nordhaus, William
+T2  - Climatic Change
+AB  - Many areas of the natural and social sciences involve complex systems that link together multiple sectors. Integrated assessment models (IAMs) are approaches that integrate knowledge from two or more domains into a single framework, and these are particularly important for climate change. One of the earliest IAMs for climate change was the DICE/RICE family of models, first published in Nordhaus (Science 258:1315–1319, 1992a), with the latest version in Nordhaus (2017, 2018). A difficulty in assessing IAMs is the inability to use standard statistical tests because of the lack of a probabilistic structure. In the absence of statistical tests, the present study examines the extent of revisions of the DICE model over its quarter-century history. The study finds that the major revisions have come primarily from the economic aspects of the model, whereas the environmental changes have been much smaller. Particularly, sharp revisions have occurred for global output, damages, and the social cost of carbon. These results indicate that the economic projections are the least precise parts of IAMs and deserve much greater study than has been the case up to now, especially careful studies of long-run economic growth (to 2100 and beyond). Additionally, the approach developed here can serve as a useful template for IAMs to describe their salient characteristics and revisions for the broader community of analysts.
+DA  - 2018/06//
+PY  - 2018
+DO  - 10.1007/s10584-018-2218-y
+DP  - DOI.org (Crossref)
+VL  - 148
+IS  - 4
+SP  - 623
+EP  - 640
+J2  - Climatic Change
+LA  - en
+SN  - 0165-0009, 1573-1480
+ST  - Evolution of modeling of the economics of global warming
+UR  - http://link.springer.com/10.1007/s10584-018-2218-y
+Y2  - 2025/08/06/13:46:03
+ER  - 
+
+TY  - JOUR
+TI  - The earth has humans, so why don’t our climate models?
+AU  - Beckage, Brian
+AU  - Lacasse, Katherine
+AU  - Winter, Jonathan M.
+AU  - Gross, Louis J.
+AU  - Fefferman, Nina
+AU  - Hoffman, Forrest M.
+AU  - Metcalf, Sara S.
+AU  - Franck, Travis
+AU  - Carr, Eric
+AU  - Zia, Asim
+AU  - Kinzig, Ann
+T2  - Climatic Change
+AB  - While climate models have rapidly advanced in sophistication over recent decades, they lack dynamic representation of human behavior and social systems despite strong feedbacks between social processes and climate. The impacts of climate change alter perceptions of risk and emissions behavior that, in turn, influence the rate and magnitude of climate change. Addressing this deficiency in climate models requires a substantial interdisciplinary effort to couple models of climate and human behavior. We suggest a multi-model approach that considers a range of theories and implementations of human behavior and social systems, similar to the multi-model approach that has been used to explore the physical climate system. We describe the importance of linking social factors with climate processes and identify four priorities essential to advancing the development of coupled social-climate models.
+DA  - 2020/11//
+PY  - 2020
+DO  - 10.1007/s10584-020-02897-x
+DP  - DOI.org (Crossref)
+VL  - 163
+IS  - 1
+SP  - 181
+EP  - 188
+J2  - Climatic Change
+LA  - en
+SN  - 0165-0009, 1573-1480
+UR  - https://link.springer.com/10.1007/s10584-020-02897-x
+Y2  - 2025/08/06/13:46:00
+ER  - 
+
+TY  - JOUR
+TI  - An investigation of parameter sensitivity of minimum complexity earth simulator
+AU  - Chen, Jiewei
+AU  - Cui, Huijuan
+AU  - Xu, Yangyang
+AU  - Ge, Quansheng
+T2  - Atmosphere
+AB  - Climate change, induced by human greenhouse gas emission, has already inﬂuenced the environment and society. To quantify the impact of human activity on climate change, scientists have developed numerical climate models to simulate the evolution of the climate system, which often contains many parameters. The choice of parameters is of great importance to the reliability of the simulation. Therefore, parameter sensitivity analysis is needed to optimize the parameters for the model so that the physical process of nature can be reasonably simulated. In this study, we analyzed the parameter sensitivity of a simple carbon-cycle energy balance climate model, called the Minimum Complexity Earth Simulator (MiCES), in diﬀerent periods using a multi-parameter sensitivity analysis method and output measurement method. The results show that the seven parameters related to heat and carbon transferred are most sensitive among all 37 parameters. Then uncertainties of the above key parameters are further analyzed by changing the input emission and temperature, providing reference bounds of parameters with 95% conﬁdence intervals. Furthermore, we found that ocean heat capacity will be more sensitive if the simulation time becomes longer, indicating that ocean inﬂuence on climate is stronger in the future.
+DA  - 2020/01/13/
+PY  - 2020
+DO  - 10.3390/atmos11010095
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 1
+SP  - 95
+J2  - Atmosphere
+LA  - en
+SN  - 2073-4433
+UR  - https://www.mdpi.com/2073-4433/11/1/95
+Y2  - 2025/08/06/13:45:54
+ER  - 
+
+TY  - JOUR
+TI  - Community climate simulations to assess avoided impacts in 1.5 and 2 °C futures
+AU  - Sanderson, Benjamin M.
+AU  - Xu, Yangyang
+AU  - Tebaldi, Claudia
+AU  - Wehner, Michael
+AU  - O'Neill, Brian
+AU  - Jahn, Alexandra
+AU  - Pendergrass, Angeline G.
+AU  - Lehner, Flavio
+AU  - Strand, Warren G.
+AU  - Lin, Lei
+AU  - Knutti, Reto
+AU  - Lamarque, Jean Francois
+T2  - Earth System Dynamics
+AB  - The Paris Agreement of December 2015 stated a goal to pursue efforts to keep global temperatures below 1.5 ◦C above preindustrial levels and well below 2 ◦C. The IPCC was charged with assessing climate impacts at these temperature levels, but fully coupled equilibrium climate simulations do not currently exist to inform such assessments. In this study, we produce a set of scenarios using a simple model designed to achieve long-term 1.5 and 2 ◦C temperatures in a stable climate. These scenarios are then used to produce century-scale ensemble simulations using the Community Earth System Model, providing impact-relevant long-term climate data for stabilization pathways at 1.5 and 2 ◦C levels and an overshoot 1.5 ◦C case, which are realized (for the 21st century) in the coupled model and are freely available to the community. Here we describe the design of the simulations and a brief overview of their impact-relevant climate response. Exceedance of historical record temperature occurs with 60 % greater frequency in the 2 ◦C climate than in a 1.5 ◦C climate aggregated globally, and with twice the frequency in equatorial and arid regions. Extreme precipitation intensity is statistically significantly higher in a 2.0 ◦C climate than a 1.5 ◦C climate in some speciﬁc regions (but not all). The model exhibits large differences in the Arctic, which is ice-free with a frequency of 1 in 3 years in the 2.0 ◦C scenario, and 1 in 40 years in the 1.5 ◦C scenario. Signiﬁcance of impact differences with respect to multi-model variability is not assessed.
+DA  - 2017/09/19/
+PY  - 2017
+DO  - 10.5194/esd-8-827-2017
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 3
+SP  - 827
+EP  - 847
+J2  - Earth Syst. Dynam.
+LA  - en
+SN  - 2190-4987
+UR  - https://esd.copernicus.org/articles/8/827/2017/
+Y2  - 2025/08/06/13:45:51
+ER  - 
+
+TY  - JOUR
+TI  - The copenhagen accord for limiting global warming: Criteria, constraints, and available avenues
+AU  - Ramanathan, Veerabhadran
+AU  - Xu, Yangyang
+T2  - Proceedings of the National Academy of Sciences
+AB  - At last, all the major emitters of greenhouse gases (GHGs) have agreed under the Copenhagen Accord that global average temperature increase should be kept below 2 °C. This study develops the criteria for limiting the warming below 2 °C, identifies the constraints imposed on policy makers, and explores available mitigation avenues. One important criterion is that the radiant energy added by human activities should not exceed 2.5 (range: 1.7–4) watts per square meter (Wm
+              −2
+              ) of the Earth's surface. The blanket of man-made GHGs has already added 3 (range: 2.6–3.5) Wm
+              −2
+              . Even if GHG emissions peak in 2015, the radiant energy barrier will be exceeded by 100%, requiring simultaneous pursuit of three avenues: (
+              i
+              ) reduce the rate of thickening of the blanket by stabilizing CO
+              2
+              concentration below 441 ppm during this century (a massive decarbonization of the energy sector is necessary to accomplish this Herculean task), (
+              ii
+              ) ensure that air pollution laws that reduce the masking effect of cooling aerosols be made radiant energy-neutral by reductions in black carbon and ozone, and (
+              iii
+              ) thin the blanket by reducing emissions of short-lived GHGs. Methane and hydrofluorocarbons emerge as the prime targets. These actions, even if we are restricted to available technologies for avenues
+              ii
+              and
+              iii
+              , can reduce the probability of exceeding the 2 °C barrier before 2050 to less than 10%, and before 2100 to less than 50%. With such actions, the four decades we have until 2050 should be exploited to develop and scale-up revolutionary technologies to restrict the warming to less than 1.5 °C.
+DA  - 2010/05/04/
+PY  - 2010
+DO  - 10.1073/pnas.1002293107
+DP  - DOI.org (Crossref)
+VL  - 107
+IS  - 18
+SP  - 8055
+EP  - 8062
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+ST  - The Copenhagen Accord for limiting global warming
+UR  - https://pnas.org/doi/full/10.1073/pnas.1002293107
+Y2  - 2025/08/06/13:45:47
+ER  - 
+
+TY  - GEN
+TI  - Playing atari with deep reinforcement learning
+AU  - Mnih, Volodymyr
+AU  - Kavukcuoglu, Koray
+AU  - Silver, David
+AU  - Graves, Alex
+AU  - Antonoglou, Ioannis
+AU  - Wierstra, Daan
+AU  - Riedmiller, Martin
+AB  - We present the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. We apply our method to seven Atari 2600 games from the Arcade Learning Environment, with no adjustment of the architecture or learning algorithm. We find that it outperforms all previous approaches on six of the games and surpasses a human expert on three of them.
+DA  - 2013/12/19/
+PY  - 2013
+DO  - 10.48550/arXiv.1312.5602
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/1312.5602
+Y2  - 2025/08/06/13:45:44
+N1  - Comment: NIPS Deep Learning Workshop 2013
+KW  - Computer Science - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - A safe operating space for humanity
+AU  - Rockström, Johan
+AU  - Steffen, Will
+AU  - Noone, Kevin
+AU  - Persson, Åsa
+AU  - Chapin, F. Stuart
+AU  - Lambin, Eric F.
+AU  - Lenton, Timothy M.
+AU  - Scheffer, Marten
+AU  - Folke, Carl
+AU  - Schellnhuber, Hans Joachim
+AU  - Nykvist, Björn
+AU  - de Wit, Cynthia A.
+AU  - Hughes, Terry
+AU  - van der Leeuw, Sander
+AU  - Rodhe, Henning
+AU  - Sörlin, Sverker
+AU  - Snyder, Peter K.
+AU  - Costanza, Robert
+AU  - Svedin, Uno
+AU  - Falkenmark, Malin
+AU  - Karlberg, Louise
+AU  - Corell, Robert W.
+AU  - Fabry, Victoria J.
+AU  - Hansen, James
+AU  - Walker, Brian
+AU  - Liverman, Diana
+AU  - Richardson, Katherine
+AU  - Crutzen, Paul
+AU  - Foley, Jonathan A.
+T2  - Nature
+AB  - Identifying and quantifying planetary boundaries that must not be transgressed could help prevent human activities from causing unacceptable environmental change, argue Johan Rockström and colleagues.
+DA  - 2009/09//
+PY  - 2009
+DO  - 10.1038/461472a
+DP  - www.nature.com
+VL  - 461
+IS  - 7263
+SP  - 472
+EP  - 475
+LA  - en
+SN  - 1476-4687
+UR  - https://www.nature.com/articles/461472a
+Y2  - 2025/08/06/13:44:20
+KW  - Science
+KW  - Humanities and Social Sciences
+KW  - multidisciplinary
+ER  - 
+
+TY  - CONF
+TI  - Discount factor as a regularizer in reinforcement learning
+AU  - Amit, Ron
+AU  - Meir, Ron
+AU  - Ciosek, Kamil
+T2  - International Conference on Machine Learning
+AB  - Specifying a Reinforcement Learning (RL) task involves choosing a suitable planning horizon, which is typically modeled by a discount factor. It is known that applying RL algorithms with a lower discount factor can act as a regularizer, improving performance in the limited data regime. Yet the exact nature of this regularizer has not been investigated. In this work, we fill in this gap. For several Temporal-Difference (TD) learning methods, we show an explicit equivalence between using a reduced discount factor and adding an explicit regularization term to the algorithm’s loss. Motivated by the equivalence, we empirically study this technique compared to standard L2 regularization by extensive experiments in discrete and continuous domains, using tabular and functional representations. Our experiments suggest the regularization effectiveness is strongly related to properties of the available data, such as size, distribution, and mixing rate.
+C3  - Proceedings of the 37th International Conference on Machine Learning
+DA  - 2020/11/21/
+PY  - 2020
+DP  - proceedings.mlr.press
+SP  - 269
+EP  - 278
+LA  - en
+PB  - PMLR
+UR  - https://proceedings.mlr.press/v119/amit20a.html
+Y2  - 2025/08/18/05:03:27
+L1  - https://proceedings.mlr.press/v119/amit20a/amit20a.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Social tipping intervention strategies for rapid decarbonization need to consider how change happens
+AU  - Smith, Steven R.
+AU  - Christie, Ian
+AU  - Willis, Rebecca
+T2  - Proceedings of the National Academy of Sciences
+DA  - 2020/05/19/
+PY  - 2020
+DO  - 10.1073/pnas.2002331117
+DP  - DOI.org (Crossref)
+VL  - 117
+IS  - 20
+SP  - 10629
+EP  - 10630
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.2002331117
+Y2  - 2025/08/18/13:57:32
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing social tipping dynamics: A systems approach for accelerating decarbonization
+AU  - Eker, Sibel
+AU  - Wilson, Charlie
+AU  - Höhne, Niklas
+AU  - McCaffrey, Mark S.
+AU  - Monasterolo, Irene
+AU  - Niamir, Leila
+AU  - Zimm, Caroline
+T2  - One Earth
+AB  - Social tipping points are promising levers for accelerating decarbonization progress. They describe how social, political, economic, or technological systems can move rapidly into a new state if positive feedback mechanisms are triggered. Analyzing the potential for social tipping requires the inherent complexity of social systems to be considered. Yet the growing social tipping literature is missing a practical framework that embeds conceptual and empirical aspects of complex feedback processes. In this perspective, we propose a dynamic systems approach that can contextualize conceptual social tipping mechanisms into practical interventions, and map the key feedback mechanisms underlying tipping dynamics across systems and scales. Our approach has three main components: a systems outlook involving interconnected feedback mechanisms; directed data collection for empirical evidence and monitoring tipping dynamics ; and global, integrated, descriptive modeling to project future dynamics and provide ex ante evidence for tipping interventions. We demonstrate how and why this approach should shape a broad agenda to strengthen the viability and effectiveness of social tipping research.
+DA  - 2024/06//
+PY  - 2024
+DO  - 10.1016/j.oneear.2024.05.012
+DP  - DOI.org (Crossref)
+VL  - 7
+IS  - 6
+SP  - 976
+EP  - 988
+J2  - One Earth
+LA  - en
+SN  - 25903322
+ST  - Harnessing social tipping dynamics
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2590332224002550
+Y2  - 2025/08/18/13:57:45
+ER  - 
+
+TY  - JOUR
+TI  - Revisiting the social cost of carbon
+AU  - Nordhaus, William D.
+T2  - Proceedings of the National Academy of Sciences
+AB  - Significance
+            
+              The most important single economic concept in the economics of climate change is the social cost of carbon (SCC). At present, regulations with more than $1 trillion of benefits have been written for the United States that use the SCC in their economic analysis. The DICE model (Dynamic Integrated model of Climate and the Economy) is one of three integrated assessment models used to estimate the SCC in the United States. The present study presents updated estimates based on a revised DICE model (DICE-2016R). The study estimates that the SCC is $31 per ton of CO
+              2
+              in 2010 US$ for the current period (2015). This study will be an important step in developing the next generation of estimates of the SCC in the United States and other countries.
+            
+          , 
+            
+              The social cost of carbon (SCC) is a central concept for understanding and implementing climate change policies. This term represents the economic cost caused by an additional ton of carbon dioxide emissions or its equivalent. The present study presents updated estimates based on a revised DICE model (Dynamic Integrated model of Climate and the Economy). The study estimates that the SCC is $31 per ton of CO
+              2
+              in 2010 US$ for the current period (2015). For the central case, the real SCC grows at 3% per year over the period to 2050. The paper also compares the estimates with those from other sources.
+DA  - 2017/02/14/
+PY  - 2017
+DO  - 10.1073/pnas.1609244114
+DP  - DOI.org (Crossref)
+VL  - 114
+IS  - 7
+SP  - 1518
+EP  - 1523
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.1609244114
+Y2  - 2025/08/18/14:09:18
+ER  - 
+
+TY  - JOUR
+TI  - Economic mitigation challenges: How further delay closes the door for achieving climate targets
+AU  - Luderer, Gunnar
+AU  - Pietzcker, Robert C
+AU  - Bertram, Christoph
+AU  - Kriegler, Elmar
+AU  - Meinshausen, Malte
+AU  - Edenhofer, Ottmar
+T2  - Environmental Research Letters
+AB  - While the international community aims to limit global warming to below 2 ◦C to prevent dangerous climate change, little progress has been made towards a global climate agreement to implement the emissions reductions required to reach this target. We use an integrated energy–economy–climate modeling system to examine how a further delay of cooperative action and technology availability affect climate mitigation challenges. With comprehensive emissions reductions starting after 2015 and full technology availability we estimate that maximum 21st century warming may still be limited below 2 ◦C with a likely probability and at moderate economic impacts. Achievable temperature targets rise by up to ∼0.4 ◦C if the implementation of comprehensive climate policies is delayed by another 15 years, chieﬂy because of transitional economic impacts. If carbon capture and storage (CCS) is unavailable, the lower limit of achievable targets rises by up to ∼0.3 ◦C. Our results show that progress in international climate negotiations within this decade is imperative to keep the 2 ◦C target within reach.
+DA  - 2013/09/01/
+PY  - 2013
+DO  - 10.1088/1748-9326/8/3/034033
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 3
+SP  - 034033
+J2  - Environ. Res. Lett.
+LA  - en
+SN  - 1748-9326
+ST  - Economic mitigation challenges
+UR  - https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034033
+Y2  - 2025/08/18/14:09:51
+ER  - 
+
+TY  - BOOK
+TI  - Viability and resilience of complex systems: Concepts, methods and case studies from ecology and society
+AU  - Deffuant, Guillaume
+AU  - Gilbert, Nigel
+AB  - One common characteristics of a complex system is its ability to withstand major disturbances and the capacity to rebuild itself. Understanding how such systems demonstrate resilience by absorbing or recovering from major external perturbations requires both quantitative foundations and a multidisciplinary view on the topic.This book demonstrates how new methods can be used to identify the actions favouring the recovery from perturbations. Examples discussed include bacterial biofilms resisting detachment, grassland savannahs recovering from fire, the dynamics of language competition and Internet social networking sites overcoming vandalism.The reader is taken through an introduction to the idea of resilience and viability and shown the mathematical basis of the techniques used to analyse systems. The idea of individual or agent-based modelling of complex systems is introduced and related to analytically tractable approximations of such models. A set of case studies illustrates the use of the techniques in real applications, and the final section describes how one can use new and elaborate software tools for carrying out the necessary calculations.The book is intended for a general scientific audience of readers from the natural and social sciences, yet requires some mathematics to gain a full understanding of the more theoretical chapters.It is an essential point of reference for those interested in the practical application of the concepts of resilience and viability
+DA  - 2011/08/03/
+PY  - 2011
+DP  - Google Books
+SP  - 227
+LA  - en
+PB  - Springer Science & Business Media
+SN  - 978-3-642-20422-7
+ST  - Viability and Resilience of Complex Systems
+L2  - https://books.google.com.tw/books?id=7rgAqC17FJIC
+KW  - Computers / Computer Simulation
+KW  - Science / Life Sciences / Ecology
+KW  - Computers / Desktop Applications / Design & Graphics
+KW  - Mathematics / Game Theory
+KW  - Science / Physics / General
+KW  - Social Science / Methodology
+KW  - Social Science / Research
+ER  - 
+
+TY  - GEN
+TI  - Multi-agent reinforcement learning in sequential social dilemmas
+AU  - Leibo, Joel Z.
+AU  - Zambaldi, Vinicius
+AU  - Lanctot, Marc
+AU  - Marecki, Janusz
+AU  - Graepel, Thore
+AB  - Matrix games like Prisoner’s Dilemma have guided research on social dilemmas for decades. However, they necessarily treat the choice to cooperate or defect as an atomic action. In real-world social dilemmas these choices are temporally extended. Cooperativeness is a property that applies to policies, not elementary actions. We introduce sequential social dilemmas that share the mixed incentive structure of matrix game social dilemmas but also require agents to learn policies that implement their strategic intentions. We analyze the dynamics of policies learned by multiple self-interested independent learning agents, each using its own deep Qnetwork, on two Markov games we introduce here: 1. a fruit Gathering game and 2. a Wolfpack hunting game. We characterize how learned behavior in each domain changes as a function of environmental factors including resource abundance. Our experiments show how conﬂict can emerge from competition over shared resources and shed light on how the sequential nature of real world social dilemmas aﬀects cooperation.
+DA  - 2017/02/10/
+PY  - 2017
+DO  - 10.48550/arXiv.1702.03037
+DP  - arXiv.org
+LA  - en
+PB  - arXiv
+UR  - http://arxiv.org/abs/1702.03037
+Y2  - 2025/08/18/14:27:34
+N1  - Comment: 10 pages, 7 figures
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Machine Learning
+KW  - Computer Science - Multiagent Systems
+KW  - Computer Science - Computer Science and Game Theory
+ER  - 
+
+TY  - JOUR
+TI  - Towards agent-based integrated assessment models: Examples, challenges, and future developments
+AU  - Lamperti, Francesco
+AU  - Mandel, Antoine
+AU  - Napoletano, Mauro
+AU  - Sapio, Alessandro
+AU  - Roventini, Andrea
+AU  - Balint, Tomas
+AU  - Khorenzhenko, Igor
+T2  - Regional Environmental Change
+AB  - Understanding the complex, dynamic, and non-linear relationships between human activities, the environment and the evolution of the climate is pivotal for policy design and requires appropriate tools. Despite the existence of different attempts to link the economy (or parts of it) to the evolution of the climate, results have often been disappointing and criticized. In this paper, we discuss the use of agent-based modeling for climate policy integrated assessment. First, we identify the main limitations of current mainstream models and stress how framing the problem from a complex system perspective might help, in particular when extreme climate conditions are at stake and general equilibrium effects are questionable. Second, we present two agent-based models that serve as prototypes for the analysis of coupled climate, energy, and macroeconomic dynamics. We argue that such models constitute examples of a promising approach for the integrated assessment of climate change and economic dynamics. They allow a bottom-up representation of climate damages and their cross-sectoral percolation, naturally embed distributional issues, and traditionally account for the role of finance in sustaining economic development and shaping the dynamics of energy transitions. All these issues are at the fore-front of the research in integrated assessment. Finally, we provide a careful discussion of testable policy exercises, modeling limitations, and open challenges for this stream of research. Notwithstanding great potential, there is a long way-to-go for agent-based models to catch-up with the richness of many existing integrated assessment models and overcome their major problems. This should encourage research in the area.
+DA  - 2019/03//
+PY  - 2019
+DO  - 10.1007/s10113-018-1287-9
+DP  - DOI.org (Crossref)
+VL  - 19
+IS  - 3
+SP  - 747
+EP  - 762
+J2  - Reg Environ Change
+LA  - en
+SN  - 1436-3798, 1436-378X
+ST  - Towards agent-based integrated assessment models
+UR  - http://link.springer.com/10.1007/s10113-018-1287-9
+Y2  - 2025/08/18/14:56:20
+ER  - 
+
+TY  - JOUR
+TI  - Reward is enough
+AU  - Silver, David
+AU  - Singh, Satinder
+AU  - Precup, Doina
+AU  - Sutton, Richard S.
+T2  - Artificial Intelligence
+DA  - 2021/10//
+PY  - 2021
+DO  - 10.1016/j.artint.2021.103535
+DP  - DOI.org (Crossref)
+VL  - 299
+SP  - 103535
+J2  - Artificial Intelligence
+LA  - en
+SN  - 00043702
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0004370221000862
+Y2  - 2025/08/19/09:29:39
+ER  - 
+
+TY  - JOUR
+TI  - Social tipping points everywhere?—patterns and risks of overuse
+AU  - Milkoreit, Manjana
+T2  - WIREs Climate Change
+AB  - The last few years have witnessed an explosion of interest in the concept of social tipping points (STPs), understood as nonlinear processes of transformative change in social systems. A growing body of interdisciplinary scholarship has been focusing in particular on social tipping related to climate change. In contrast with tipping point studies in the natural sciences–for example climate tipping points and ecological regime shifts–STPs are often conceptualized as desirable, offering potential solutions to pressing problems. Drawing on a well-established definition for tipping points, and a qualitative review of articles that explicitly treat social tipping points as potential solutions to climate change, this article identifies four deleterious patterns in the application of the STP concept in this recent wave of research on nonlinear social change: (i) premature labeling, (ii) not defining system boundaries and scales of analysis, (iii) not providing evidence for all characteristics of tipping processes, and (iv) not making use of existing social theories of change. Jointly, these patterns create a trend of overusing the concept. Recognizing and avoiding these patterns of “seeing the world through tipping point glasses” is important for the quality of scientific knowledge generated in this young field of inquiry and for future science-policy interactions related to climate change. Future research should seek to identify empirical evidence for STPs while remaining open to the possibility that many social change processes are not instances of tipping, or that certain systems might not be prone to nonlinear change.
+DA  - 2023/03//
+PY  - 2023
+DO  - 10.1002/wcc.813
+DP  - DOI.org (Crossref)
+VL  - 14
+IS  - 2
+SP  - e813
+J2  - WIREs Climate Change
+LA  - en
+SN  - 1757-7780, 1757-7799
+ST  - Social tipping points everywhere?
+UR  - https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.813
+Y2  - 2025/08/27/11:59:42
+ER  - 
+
+TY  - BOOK
+TI  - Global energy assessment: Toward a sustainable future
+AU  - Johansson, Thomas B.
+AU  - Patwardhan, Anand Prabhakar
+AU  - Nakićenović, Nebojša
+AU  - Gomez-Echeverri, Luis
+AB  - The Global Energy Assessment (GEA) brings together over 300 international researchers to provide an independent, scientifically based, integrated, and policy-relevant analysis of current and emerging energy issues and options. It has been peer-reviewed anonymously by an additional 200 international experts. The GEA assesses the major global challenges for sustainable development and their linkages to energy; the technologies and resources available for providing energy services; future energy systems that address the major challenges; and the policies and other measures that are needed to realize transformational change toward sustainable energy futures. The GEA goes beyond existing studies on energy issues by presenting a comprehensive and integrated analysis of energy challenges, opportunities and strategies, for developing, industrialized and emerging economies. This volume is an invaluable resource for energy specialists and technologists in all sectors (academia, industry, and government) as well as policymakers, development economists and practitioners in international organizations and national governments.
+DA  - 2012/08/27/
+PY  - 2012
+DP  - Google Books
+SP  - 1885
+LA  - en
+PB  - Cambridge University Press
+SN  - 978-0-521-18293-5
+ST  - Global Energy Assessment
+L2  - https://books.google.com.tw/books?id=MZ3DklIQuT0C
+KW  - Business & Economics / Development / Sustainable Development
+KW  - Nature / Ecology
+KW  - Science / Environmental Science
+KW  - Political Science / Public Policy / Energy Policy
+KW  - Political Science / Public Policy / Environmental Policy
+KW  - Science / Energy
+KW  - Technology & Engineering / Power Resources / General
+ER  - 
+
+TY  - JOUR
+TI  - Estimation of COVID-19 spread curves integrating global data and borrowing information
+AU  - Lee, Se Yoon
+AU  - Lei, Bowen
+AU  - Mallick, Bani
+T2  - PLOS ONE
+A2  - Samy, Abdallah M.
+AB  - Currently, novel coronavirus disease 2019 (COVID-19) is a big threat to global health. The rapid spread of the virus has created pandemic, and countries all over the world are struggling with a surge in COVID-19 infected cases. There are no drugs or other therapeutics approved by the US Food and Drug Administration to prevent or treat COVID-19: information on the disease is very limited and scattered even if it exists. This motivates the use of data integration, combining data from diverse sources and eliciting useful information with a unified view of them. In this paper, we propose a Bayesian hierarchical model that integrates global data for real-time prediction of infection trajectory for multiple countries. Because the proposed model takes advantage of borrowing information across multiple countries, it outperforms an existing individual country-based model. As fully Bayesian way has been adopted, the model provides a powerful predictive tool endowed with uncertainty quantification. Additionally, a joint variable selection technique has been integrated into the proposed modeling scheme, which aimed to identify possible country-level risk factors for severe disease due to COVID-19.
+DA  - 2020/07/29/
+PY  - 2020
+DO  - 10.1371/journal.pone.0236860
+DP  - DOI.org (Crossref)
+VL  - 15
+IS  - 7
+SP  - e0236860
+J2  - PLoS ONE
+LA  - en
+SN  - 1932-6203
+UR  - https://dx.plos.org/10.1371/journal.pone.0236860
+Y2  - 2025/09/02/11:54:42
+ER  - 
+
+TY  - JOUR
+TI  - Exploring pathways for world development within planetary boundaries
+AU  - Van Vuuren, Detlef P.
+AU  - Doelman, Jonathan C.
+AU  - Schmidt Tagomori, Isabela
+AU  - Beusen, Arthur H. W.
+AU  - Cornell, Sarah E.
+AU  - Röckstrom, Johan
+AU  - Schipper, Aafke M.
+AU  - Stehfest, Elke
+AU  - Ambrosio, Geanderson
+AU  - Van Den Berg, Maarten
+AU  - Bouwman, Lex
+AU  - Daioglou, Vassilis
+AU  - Harmsen, Mathijs
+AU  - Lucas, Paul
+AU  - Van Der Wijst, Kaj-Ivar
+AU  - Van Zeist, Willem-Jan
+T2  - Nature
+DA  - 2025/05/22/
+PY  - 2025
+DO  - 10.1038/s41586-025-08928-w
+DP  - DOI.org (Crossref)
+VL  - 641
+IS  - 8064
+SP  - 910
+EP  - 916
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+UR  - https://www.nature.com/articles/s41586-025-08928-w
+Y2  - 2025/09/02/12:11:01
+ER  - 
+
+TY  - JOUR
+TI  - Studying the complexity of change: Toward an analytical framework for understanding deliberate social-ecological transformations
+AU  - Moore, Michele-Lee
+AU  - Tjornbo, Ola
+AU  - Enfors, Elin
+AU  - Knapp, Corrie
+AU  - Hodbod, Jennifer
+AU  - Baggio, Jacopo A.
+AU  - Norstr�m, Albert
+AU  - Olsson, Per
+AU  - Biggs, Duan
+T2  - Ecology and Society
+AB  - ABSTRACT. Faced with numerous seemingly intractable social and environmental challenges, many scholars and practitioners are increasingly interested in understanding how to actively engage and transform the existing systems holding such problems in place. Although a variety of analytical models have emerged in recent years, most emphasize either the social or ecological elements of such transformations rather than their coupled nature. To address this, first we have presented a definition of the core elements of a social-ecological system (SES) that could potentially be altered in a transformation. Second, we drew on insights about transformation from three branches of literature focused on radical change, i.e., social movements, socio-technical transitions, and social innovation, and gave consideration to the similarities and differences with the current studies by resilience scholars. Drawing on these findings, we have proposed a framework that outlines the process and phases of transformative change in an SES. Future research will be able to utilize the framework as a tool for analyzing the alteration of social-ecological feedbacks, identifying critical barriers and leverage points and assessing the outcome of social-ecological transformations.
+DA  - 2014///
+PY  - 2014
+DP  - JSTOR
+VL  - 19
+IS  - 4
+SN  - 1708-3087
+ST  - Studying the complexity of change
+UR  - https://www.jstor.org/stable/26269689
+Y2  - 2025/09/02/13:59:32
+L1  - https://www.jstor.org/stable/pdfplus/10.2307/26269689.pdf?acceptTC=true
+ER  - 
+
+TY  - JOUR
+TI  - Can our global food system meet food demand within planetary boundaries?
+AU  - Conijn, J.G.
+AU  - Bindraban, P.S.
+AU  - Schröder, J.J.
+AU  - Jongschaap, R.E.E.
+T2  - Agriculture, Ecosystems & Environment
+AB  - Global food demand is expected to increase, aﬀecting required land, nitrogen (N) and phosphorus (P) inputs along with unintended emissions of greenhouse gasses (GHG) and losses of N and P. To quantify these input requirements and associated emissions/losses as a function of food demand, we built a comprehensive model of the food system and investigated the eﬀects of multiple interventions in the food system on multiple environmental goals. Model outcomes are compared to planetary boundaries for land system change, climate change and the global N and P cycles to identify interventions that direct us towards a safe operating space for humanity. Results show a transgression of most boundaries already for 2010 and a drastic deterioration in the reference scenario for 2050 in which no improvements relative to 2010 were implemented. We deﬁned the following improvements for 2050: reduction of waste, less consumption of animal products, higher feed conversion eﬃciency, higher crop and grassland yields, reduction of N and P losses from agricultural land and reduction of ammonia (NH3) volatilization. The eﬀects of these measures were quantiﬁed individually and in combination. Signiﬁcant trade-oﬀs and synergies in our results underline the importance of a comprehensive analysis with respect to the entire food system, including multiple measures and environmental goals. The combination of all measures was able to partly prevent transgression of the boundaries for: agricultural area requirement, GHG emission and P ﬂow into the ocean. However, global mineral N and P fertilizer inputs and total N loss to air and water still exceeded their boundaries in our study. The planetary boundary concept is discussed in relation to the selected variables and boundary values, including the additional necessity of eliminating the dependency of our food production on ﬁnite P reserves. We argue that total N loss is a better indicator of the environmental impacts of the global N cycle than fertilizer N input. Most measures studied in this paper are also on the agenda of the United Nations for Sustainable Development, which gives added support to their implementation.
+DA  - 2018/01//
+PY  - 2018
+DO  - 10.1016/j.agee.2017.06.001
+DP  - DOI.org (Crossref)
+VL  - 251
+SP  - 244
+EP  - 256
+J2  - Agriculture, Ecosystems & Environment
+LA  - en
+SN  - 01678809
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0167880917302438
+Y2  - 2025/09/02/14:42:45
+ER  - 
+
+TY  - JOUR
+TI  - Modelling national transformations to achieve the SDGs within planetary boundaries in small island developing states
+AU  - Allen, Cameron
+AU  - Metternicht, Graciela
+AU  - Wiedmann, Thomas
+AU  - Pedercini, Matteo
+T2  - Global Sustainability
+AB  - Non-technical summary
+              The Sustainable Development Goals (SDGs) provide an integrated and ambitious roadmap for sustainable development by 2030. National implementation will be crucial and there is an urgent need to understand the scale and pace of transformations to achieve the goals. There is also concern that achieving socio-economic objectives will undermine longer-term environmental sustainability. This study uses modelling to explore how different policy and investment settings can enable the necessary transformations, adopting Fiji as a use-case. Modest investment over the coming decade can deliver improved performance. However, far more ambitious actions are needed to accelerate progress while managing long-term trade-offs with environmental objectives.
+            
+            
+              Technical summary
+              
+                This paper presents the results from a national scenario modelling study for Fiji with broader relevance for other countries seeking to achieve the SDGs. We develop and simulate a business-as-usual and six alternative future scenarios using the integrated (
+                iSDG-Fiji
+                ) system dynamics model and evaluate their performance on the SDGs in 2030 and global planetary boundaries (PBs) and the ‘safe and just space’ (SJS) framework in 2050. Modest investment over the coming decade through a ‘sustainability transition’ scenario accelerates SDG progress from 40% to 70% by 2030 but fails to meet all SJS thresholds. Greatly scaling up investment and ambition through an SDG transformation scenario highlights possibilities for Fiji to accelerate progress to 83% by 2030 while improving SJS performance. The scale of investment is highly ambitious and could not be delivered without scaled-up international support, but despite this investment progress still falls short. The analysis highlights where key trade-offs remain as well as options to address these, however closing the gap to 100% achievement will prove very challenging. The approach and findings are relevant to other countries with similar characteristics to increase the understanding of the transformations needed to achieve the SDGs within PBs in different country contexts.
+              
+            
+            
+              Social media summary
+              How can countries accelerate progress on the SDGs by 2030 while ensuring longer-term coherence with climate and sustainability thresholds?
+DA  - 2021///
+PY  - 2021
+DO  - 10.1017/sus.2021.13
+DP  - DOI.org (Crossref)
+VL  - 4
+SP  - e15
+J2  - Glob. Sustain.
+LA  - en
+SN  - 2059-4798
+UR  - https://www.cambridge.org/core/product/identifier/S2059479821000132/type/journal_article
+Y2  - 2025/09/02/14:42:59
+ER  - 
+
