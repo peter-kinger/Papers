@@ -238,6 +238,7 @@ this is a repository concludes the fresh and summaried papers
 - Andrighetto, Giulia, and Eva Vriens. "A research agenda for the study of social norm change." Philosophical Transactions of the Royal Society A 380.2227 (2022): 20200411.【social norm 的完整定义调研，不包含具体的模型】
 - Judge, Madeline, et al. "Accelerating social tipping points in sustainable behaviors: Insights from a dynamic model of moralized social change." One Earth 7.5 (2024): 759-770.【观念性文章探究 social norm ，应该分为阶段分析】
 - Gavrilets, Sergey, Denis Tverskoi, and Angel Sánchez. "Modelling social norms: an integration of the norm-utility approach with beliefs dynamics." Philosophical Transactions of the Royal Society B 379.1897 (2024): 20230027.【social norm 具体的效用函数建模的总结的文章，具有数学公式】
+- S. M. Constantino et al., “Scaling Up Change: A Critical Review and Practical Guide to Harnessing Social Norms for Climate Action,” Psychol Sci Public Interest, vol. 23, no. 2, pp. 50–97, Oct. 2022, doi: 10.1177/15291006221105279.【综述，论述了 social norm 可以用于解决引发大规模社会变革的工具，给出了 social norm 在发挥利用社会力量推动脱碳的重要作用影响，加速可持续经济转型】
 
 ## social tipping ——social norm（具体研究性）
 
